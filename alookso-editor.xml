@@ -4,7 +4,7 @@
         <title>alookso ─ alookso 에디터팀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 19:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 20:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,12 +77,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMTk6MDk6NTguMTIzWgY7AFQ%3D--589d5b99626b5f6e2852185a00b74a8d308a626a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMjA6MTM6MTAuMDQyWgY7AFQ%3D--5b87fa1ca62f2e11b630d1552bce99c6ef979058"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       71
     </span>
-</button><input type="hidden" name="authenticity_token" value="Kv-NeX7R6hLF6avhmIhs2oAEzs-wY_NyVYa1xeJvYU0t5uCxPilGJxAsfrlYD44q19_epTEwOJzP0dJQ9zh2yQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="0W0kgp0-OUHig8RNQhHPvjIXJsDlDxI-8fS0QRVwZ7aycJcOxRe2--tZYULot7oJMDEAD1CPlPuvATO5KTvcPA" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
