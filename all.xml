@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 16:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 17:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,12 +77,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMTY6MTk6MDYuMzk2WgY7AFQ%3D--13db55caeee80e69852c0029a81e6a41599dc2eb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMTc6MTU6NTIuMzIyWgY7AFQ%3D--66c5b5f292eba5a366cae799a9ff82d52380e906"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       71
     </span>
-</button><input type="hidden" name="authenticity_token" value="cE1ywJp_cbmqZqcDZdbahm3CN4_E2xf3f0ClysWs8XAKtjY_EwoSO-YgDIeRH0IhM3HOzIEsTQJa6dsEfXvTIQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="9X_jFM8BkWXXs-w1K4-MemrK33GnNK-tR2xrfBtZUJc5-e4PBUKOYpkRYiMf9q9x7sIgT1LMMc7zOSNWwh2hkg" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
@@ -278,12 +278,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMTY6MjE6MDMuNDEyWgY7AFQ%3D--eb2ebdd5760888d32ac86652c785a965c0c4a99c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  animate-2-bounce"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjVUMTc6MTQ6MDguMTg3WgY7AFQ%3D--67b8303aa054a97051bdb38c76f2795c0fff1d2f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       71
     </span>
-</button><input type="hidden" name="authenticity_token" value="bUXNi91E1FZum5IdwV8tx6mUeRhb7QDyM_PaJIbRmGe1LaZtcko_DyrIxUSMoJDm8EUOmr9opmxVKz8X7apeZQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="uvKpKPT6yj5buiSQ-aXloZJoHMw8EFMCQNLIk96MtSPCyirXlB8K_pHiVaMNxYqsSfuBu-o5P4Nuk4j7c8klng" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
