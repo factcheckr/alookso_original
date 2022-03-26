@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 16:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 17:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,12 +77,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjZUMTY6MTY6NTIuNDk1WgY7AFQ%3D--4e374f413439febad7971fb68aace2958c829a6b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjZUMTc6MTE6NDEuNzQ0WgY7AFQ%3D--555612c841e09b65181db8aaa5f7357bf8bb8fd1"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       127
     </span>
-</button><input type="hidden" name="authenticity_token" value="506QwKJw5hRI-ylWqnLPJwGlEHtHuNb53Jn7wThF_3_hfuJ-yuXeOAlfGXJMSv_oRRzftW-0Z8jF4hj07hIbCQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="MUTTv8496Bc41FSIFwhoYeRP8goA7sMp2aEjiPXZcFGhcOkTwELThE91GEsMn4U6vBpw2vmLcl0Fc_T_9e9ekg" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
@@ -278,12 +278,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjZUMTY6MTY6NTIuNDk1WgY7AFQ%3D--4e374f413439febad7971fb68aace2958c829a6b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjZUMTc6MDk6MDcuOTA5WgY7AFQ%3D--899e6f1c0a70ad950bf2211c44bad95ecbb30d3f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       127
     </span>
-</button><input type="hidden" name="authenticity_token" value="dxkcZZ0OItM5W09Syzmmi1gUyD2z73S3cmJ5cJ32JChi945m04PWxHwOK0rVMuHMHe6-mBHkUH1uwTN8KwUwdA" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="XMPIyqr69UA_uuemfS9Vsr3Jrvj_kfnLTeZd-1eaOi8udevK6s-UN4Nr6mwX_gxafKxgWLyaAhyQgQ8HtZ3yow" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
