@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 20:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 21:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,12 +77,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMjA6MTQ6MTUuNTU5WgY7AFQ%3D--38bd8729175cb545c9573c9d42827731aade70ce"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMjE6MTM6NTkuNzEzWgY7AFQ%3D--d4643be1ef94d31e1a12368ac582c19675d2d5fe"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  animate-2-bounce"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      164
+      165
     </span>
-</button><input type="hidden" name="authenticity_token" value="73ZpZB2Bt0SP0LYctvMde87uyXJPGVBLelnMmzslfow7X5-HTfoD2UGIHM-IQnS9TDK6IiR__e3cUg3oQ63fQg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="QbEfahaMiHARdR06NjyhzQAB8EkTapBwrqTnOQEwUA0YDtbBoJyPqZPElEk_NriB4Qdbu6ZHJMNFfslkBmqolQ" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
@@ -278,12 +278,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMjA6MTU6NTQuODE1WgY7AFQ%3D--a27c4205117f7936d8e72a1c7c765d9c6840aa12"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMjE6MTM6NTkuNzEzWgY7AFQ%3D--d4643be1ef94d31e1a12368ac582c19675d2d5fe"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  animate-2-bounce"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      164
+      165
     </span>
-</button><input type="hidden" name="authenticity_token" value="71QTmmaLerhwxX9iq2pngcokrlOPIdy1PE8L4ZkZGn8NCMmS3sn4XaeeWhSu3Nw8fA4lqNFwD5Erz57mg9YRhg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="18foh9HW38PIFkeoDvzDVuXSf7aa9t7N-ecx-VnRhSG0sViJ3RZKsmyualcql4OWmEpkMR28LP8FgmM-o9-moA" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
