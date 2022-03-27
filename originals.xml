@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 10:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 11:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -77,12 +77,12 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_kZtBEOx">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMTA6MTQ6NTEuOTQ5WgY7AFQ%3D--88fcf96915d6fec351c23123ea916bc525c67845"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NzY3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMjdUMTE6MDg6NTcuODM3WgY7AFQ%3D--2681c99ba494ddaaaab06725462a7c996410f3f3"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  animate-2-bounce"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      155
+      156
     </span>
-</button><input type="hidden" name="authenticity_token" value="BtreDTiIyVmGnycSxS0fqI9Sw6a3kMrG_hvc-7-WlDJYf2m0rm3w7Q3kr5nOUR18ZuB4PKFgrlbq4zzlyLQ1Iw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="KAv7YomJRCptB-hu85a4zQkoG-JnPMeOH1Ti-8KnTa8_pBv0qDyFQR7yu-Fvt7wE1Mza6RC9fsKBKBp4YK9vgA" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_kZtBEOx" data-method="get" href="/posts/kZtBEOx/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
