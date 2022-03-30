@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 12:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,16 +85,16 @@
         <span class="flex items-center">
           <a class="inline-block h-full whitespace-nowrap" href="/posts/G1tkm1y#reply">
             <svg class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-reply"></use></svg>
-              <span data-qa="children-count">1</span>
+              <span data-qa="children-count">2</span>
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_G1tkm1y">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTUxNzYxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMzBUMTI6MjM6MzAuNDg1WgY7AFQ%3D--bbe5c14240ee79e4b54bb93b2c33375956a3715f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTUxNzYxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMzBUMTM6MjM6MDAuMzQyWgY7AFQ%3D--99a1d214160d5e610d4c33c3b9e53e3bef7c4c85"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      24
+      26
     </span>
-</button><input type="hidden" name="authenticity_token" value="UwUFp9bGruvZUV0I9rI6stI5by-2ScknbRzekg3L8ul-2Wfo0VyXnuWEKyRTMzCazzx33eZqQQyLZmdstisc_w" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="5N94sTWpuIFtxw1a4iwE7kJioZJKj9Dcfw77HzdN28uJZdPFmyyTY0vUrHqh2H1xqPW5oNHDVTO5iJz6yQPGqQ" autocomplete="off"></form></div>
           <div class="relative">
   <a tabindex="0" class="inline-block select-none share_post_G1tkm1y" data-method="get" href="/posts/G1tkm1y/share">
     <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
