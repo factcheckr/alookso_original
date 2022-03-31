@@ -4,7 +4,7 @@
         <title>alookso ─ alookso 에디터팀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,86 +22,11 @@
             <link>https://alook.so/posts/G1tkm1y</link>
             <guid>https://alook.so/posts/G1tkm1y</guid>
             <pubDate>Wed, 30 Mar 2022 06:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0">
-      <div class="flex items-center justify-between text-gray-900">
-    <div class="flex items-center mr-2">
-      <div class="relative z-0 flex -space-x-4">
-          <a href="/users/x4WtnB"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " alt="alookso 에디터팀" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenB4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f30704529029039002f368093f32f305fde8b42/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/editor%20(3).png" width="32px" height="32px"></a>
-          <a href="/users/xZBt7x"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " alt="임유나" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a6084e6926048f572b71714c3f31a1be4041b85/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/dvs_yn.png" width="32px" height="32px"></a>
-          <a href="/users/qKktlq"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " alt="김진웅" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1RrQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--440552ac90ab6decb70e804e92b8140714e43a04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVNkRHTnZiblpsY25SSklnaHFjR2NHT3daVU9ncHpZWFpsY25zSU9neHhkV0ZzYVhSNWFWVTZDbk4wY21sd1ZEb1BZbUZqYTJkeWIzVnVaRnNJYVFIL2FRSC9hUUgvIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--1306baa159120451b1d9ea1cb3547f28ea3e5b0b/image%20(2).png" width="32px" height="32px"></a>
-          <a href="/users/8r9tZb"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " alt="박진만" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVlMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6f7baae3481f2689ccf536e5f89f422cafe4c6b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRk9neGpiMjUyWlhKMFNTSUlhbkJuQmpzR1ZEb0tjMkYyWlhKN0NEb01jWFZoYkdsMGVXbFZPZ3B6ZEhKcGNGUTZEMkpoWTJ0bmNtOTFibVJiQ0drQi8ya0IvMmtCL3c9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--ce1dd8dfe726121eec1f523bbaf839dae0e079df/KakaoTalk_Photo_2021-03-22-15-07-15.jpeg" width="32px" height="32px"></a>
-      </div>
-    </div>
-    <div class="flex-1 w-0 leading-5">
-      <div class="flex text-xs">
-          <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/x4WtnB">
-            <span class="font-medium text-gray-600">alookso 에디터팀</span>
-              <span class="font-light text-gray-600 text-xxs">외 3명</span>
-</a>      </div>
-      <div class="font-light text-gray-400 text-xxs">
-          2022/03/30
-      </div>
-    </div>
-  </div>
-
-  </div>
-  
-</div>
-
-    <div class="flex-auto mt-2 space-y-2">
-          <h5 class="font-medium text-break" data-qa="post-title">
-            <a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkm1y">대통령을 만든 사람들, 대통령을 만들 사람들</a>
-          </h5>
-
-        <h6 class="mb-2 font-light text-gray-500" data-controller="read-more" data-read-more-is-overflow-value="true">
-    <div data-controller="box-link" data-box-link-url-value="/posts/G1tkm1y" class="trix-content-post-partial line-clamp-5 cursor-pointer" data-read-more-target="content">
-        <div class="trix-content">
-  <div>인수위 사람들의 발자국 되돌아보면</div>
-</div>
-
-</div>  <a href="/posts/G1tkm1y">
-    <button data-read-more-target="moreButton" class="flex items-center mt-2 text-xs font-normal text-gray-500">
-      더 보기
-      <svg class="ml-0.5 inline h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-arrow-right"></use></svg>
-    </button>
-</a></h6>
-
-          <a aria-label="대통령을 만든 사람들, 대통령을 만들 사람들" href="/posts/G1tkm1y">
-            <div class="mt-2 aspect-w-16 aspect-h-9 min-w-min">
-              <img class="object-cover rounded border border-gray-100" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjNXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--db61cf5fcbda5a821fd62a8f5ea074535d57a3e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/PYH2022031611390001300%20(1).jpeg">
-            </div>
-</a>
-        <div class="pt-1 space-y-2 posts-post-topic-invisible:hidden">
-    <span class="inline-block">
-      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
-        <a href="/topics/public">
-          공적인 결정
-</a>      </button>
-    </span>
-</div>
-
-      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
-        <span class="flex items-center">
-          <a class="inline-block h-full whitespace-nowrap" href="/posts/G1tkm1y#reply">
-            <svg class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-reply"></use></svg>
-              <span data-qa="children-count">7</span>
-</a>        </span>
-        <div class="flex items-center space-x-4">
-          <div class="h-full whitespace-nowrap like_button_post_G1tkm1y">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTUxNzYxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDQtMzBUMDc6MTM6NTguNzY1WgY7AFQ%3D--eef33fd4c852bc5b156f399983730c057fed1078"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      44
-    </span>
-</button><input type="hidden" name="authenticity_token" value="ry0ViOEolar11lv6hdA8TaExkvEtJVZJbm0Cry_Uc3Pdt5oApN8UpeoP-iy1ZLKhcmnuJQZLGx2UZHosSlBRAA" autocomplete="off"></form></div>
-          <div class="relative">
-  <a tabindex="0" class="inline-block select-none share_post_G1tkm1y" data-method="get" href="/posts/G1tkm1y/share">
-    <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-638517687209d5cc1e13134790975393d0b17fd4cd69a46255ff18ed201652dc.svg#icons-icon-line-share"></use></svg>
-</a></div>
-        </div>
-      </div>
-    </div>]]></content:encoded>
+            <content:encoded><![CDATA[<span>안철수, 이준석, 김한길, 김병준 등과의 ‘이질적 연합’(천관율 에디터의 대선 에세이를 참고해주세요)을 통해 가까스로 승리한 윤석열 당선인은, 선거 후 밀려드는 청구서에 골머리를 앓고 있을지도 모릅니다.</span><br>
+<br>
+<span>‘개국공신’들 간 권력 다툼의 첫 무대는 대통령직 인수위원회입니다. ‘대통령직인수법’을 보면 인수위의 업무는 정부의 조직과 기능, 예산현황을 파악하고 새 정부의 정책기조를 설정하기 위한 준비를 하는 것입니다. 대통령 임기 시작 전 국무총리나 장관 등 국무위원 후보자를 지명하고 이를 검증하는 역할도 인수위가 합니다. 인수위를 구성하는 것은 대통령 당선인이 채워야 할 중요한 첫 단추인 셈입니다.</span><br>
+<br>
+<span>윤석열 당선인은 여러 의미에서 ‘기록의 소유자’입니다. 지난해 6월 29일 처음으로 ‘정치 참여’를 선언한 뒤 250여일 만에 대통령에 당선됐습니다. 1987년 직선제 개헌 이후 국회의원 경력이 없는 최초의 ‘0선 대통령’이 됐습니다. 정치로의 첫발을 대통령직 도전으로 뗐는데, 바...</span>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjNXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--db61cf5fcbda5a821fd62a8f5ea074535d57a3e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/PYH2022031611390001300%20(1).jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
