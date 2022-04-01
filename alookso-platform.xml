@@ -4,9 +4,22 @@
         <title>alookso ─ alookso 플랫폼팀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토픽을 개편하였습니다.]]></title>
+            <link>https://alook.so/posts/KmtD5ma</link>
+            <guid>https://alook.so/posts/KmtD5ma</guid>
+            <pubDate>Fri, 01 Apr 2022 08:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span>안녕하세요, 프로젝트 alookso입니다.&nbsp;
+<br>토픽 개편 소식을 전합니다. alookso 프로젝트는 현재 베타 실험중에 있으며, 베타 중반을 맞이하여 토픽을 개편하였습니다. 변경된 토픽은 토픽 탭에서 확인할 수 있습니다. 관심있는 토픽을 확인하여 다른 사람들의 글을 읽고 여러분의 소중한 의견을 남겨 보세요.
+<br>오늘은 변경 사실만 알려드려요. 곧 에디터팀에서 변경된 토픽을 소개할 예정이니 많은 관심 부탁드려요.
+<br>그 외에도 ‘오리지널 탭'에 ‘alookso 시리즈’ 계정을 신설하여 추가했습니다. 오리지널 탭에서, 혹은 alookso 시리즈 계정의 구독을 통해 ‘대선과 20대’, ‘대통령의 이사’, ‘부동산 대출 규제. 풀까, 조일까?’ 등 최근 발행된 시리즈와 같은, 사회의 중요한 이슈를 심층적으로 다루는 시리즈들을 확인 할 수 있습니다.</span><br>
+<br>
+<span>우리 사회의 문제들을 이해하고 함께 해결하기 위해 시작한 프로젝트 alookso와 함께 해주셔서 항상 감사하다는 말씀을 전합니다. 곧 다...</span>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnYyQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2634c4c7bf367b915239f81c98d2156fad026361/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/photo_2022-04-01%2015.48.57.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[투표 기능을 추가하였습니다]]></title>
             <link>https://alook.so/posts/mbt19P</link>
@@ -109,25 +122,6 @@
             <content:encoded><![CDATA[<span>안녕하세요? 권규리 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
 <br>뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
 <br>✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지]]></title>
-            <link>https://alook.so/posts/BatVbw</link>
-            <guid>https://alook.so/posts/BatVbw</guid>
-            <pubDate>Wed, 16 Mar 2022 10:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span>얼룩커 여러분, 안녕하세요? aloosko입니다.🐄</span><br>
-<br>
-<span>1월 17일, alookso에 '뉴스'탭이 생기고 '큐레이션 글쓰기 사용설명서' 안내글이 올라가며 많은 분들이 '큐레이션 글쓰기' 방법으로 글을 작성해 주고 계시는데요🙂</span><br>
-<br>
-<span>놀이터에도 모두가 안전하게 놀 수 있도록 하는 안전수칙이 있듯, 
-<br>alookso에도 안전하게 토론하고 관점을 키워나가기 위해 꼭 필요한 '행동강령 및 운영정책'이 있답니다.</span><br>
-<br>
-<span>특히, 큐레이션 글쓰기의 경우 내가 발견한 뉴스 기사 등의 글을 가져와 제시하는 방식이기 때문에 저작권과 밀접한 연관이 있어 더더욱에 주의를 기울여 작성해야 합니다.
-<br> 타인 혹은 타 매체의 글을 출처 표기 없이 복사하여 게재 할 경우, 저작권법 위반의 사유로 alookso 행동강령 및 운영정책에 따라 제재 받을 수 있습니다.&nbsp;</span><br>
-<br>
-<span>예를 들어, 다음과 같은 경우는 올바르지 못한 경우라서 제재 받을 수 있어요.&nbsp;
-<br>❌ 기사나 글의 전체 혹은 대부분을 복사해 붙인 경우(무단전재 및 재배...</span>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTd5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--884318f9db940acd3e7cb907fde3ebd245b3725b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
