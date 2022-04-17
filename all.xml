@@ -1,7 +1,988 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/alookso_original/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-04-17T05:14:32.400Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 17 Apr 2022 05:23:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS에게 날아올 입영통지서? [토론소] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/M9t485B</link>
+            <guid>https://alook.so/posts/M9t485B</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[대중 예술인에게 병역 특례, 허용해야 할까요?]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOW1SQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--da2bec38dffdd1f100aae2ff9f78e9f96f5ea3d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/PYH2022040409280001300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갈등의 경제적 비용 [카우레터] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/o7tr0XM</link>
+            <guid>https://alook.so/posts/o7tr0XM</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[갈등에는 돈이 듭니다]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0tSQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8642e76a9c44d9f02f72ef35e5e315e6e6c861c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/stillness-inmotion-ytHZzN9qtoE-unsplash_small.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음식은 대행에 대행을 타고 온다 [얼룩차트] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/njt1wq1</link>
+            <guid>https://alook.so/posts/njt1wq1</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;배달 주문부터 띵동 소리가 울리기까지]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzJTQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5007dfa213ac4efa6274ba5c9f9d7dea5d83c4b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0415%20noda%20th.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시리즈 - 이준석식 정치는 성공할까] 모아보기 (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/o7tr09v</link>
+            <guid>https://alook.so/posts/o7tr09v</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[여기 이준석식 정치에 대한 최고의 인사이트 네 편이 있다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNk9RQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0887b74eb3204c008783e859bafd2782d3a5cfb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/9_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%89%E1%85%B5%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%B5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석의 말 말고, 그가 끄집어낸 목소리에 대해 [이준석식 정치는 성공할까] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/rDtRwVv</link>
+            <guid>https://alook.so/posts/rDtRwVv</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA['이준석 현상'과 정치인 '이준석']]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFdQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e5f1f788b58a25a8372ba208c2b93686d0cf258b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/9_%E1%84%92%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석과 갈라치기 - 민주주의는 원래 갈라치기다 [이준석식 정치는 성공할까] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/PvtreRl</link>
+            <guid>https://alook.so/posts/PvtreRl</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[‘젠더 갈라치기’를 정치적으로 격파하는 방법]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzZQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1771c76c405d71af2c718da65145ead71088dc90/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/9_%E1%84%8E%E1%85%AC%E1%84%87%E1%85%A7%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래에 올 ‘상냥한 이준석’이 더 위험하다 [이준석식 정치는 성공할까] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/zvtJZnO</link>
+            <guid>https://alook.so/posts/zvtJZnO</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[트럼피즘의 발호와 싸우는 건 진보의 과제가 아니다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--da612fed37e8ede64755c18af5f83787bfad7a3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/9_%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A7%E1%86%BC%E1%84%8C%E1%85%B5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정의 역습 – 이준석식 정치의 작동 원리 [이준석식 정치는 성공할까] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/M9t48my</link>
+            <guid>https://alook.so/posts/M9t48my</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[이준석식 정치가 승리할 때, 패배하는 것은 정치 그 자체다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUdQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--593ae2929f38e9a0bd299149fa39a5adc579bcfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/9_%EC%B2%9C%EA%B4%80%EC%9C%A8_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들썩들썩 오르는 장바구니 물가 [얼룩 차트] (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/mbt7BvJ</link>
+            <guid>https://alook.so/posts/mbt7BvJ</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[세계와 연결된 우리의 삶, 마트에서 실감합니다]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejJQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0778a9901ec2cd02578cbdb920ca823ea5e7334/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0415%20diego%20th.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 일자리를 만드는 것이 정부의 책임 중 하나라고 생각하시나요? (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/E7t93rq</link>
+            <guid>https://alook.so/posts/E7t93rq</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="flex items-center justify-between py-4 space-x-4">
+    <div class="flex flex-col justify-between ">
+      <div>
+          <div class="flex items-center space-x-1">
+    <div class="relative z-0 flex -space-x-3">
+        <a href="/users/bA6tp1"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " alt="alookso 데이터팀" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVp4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ae08907a7e59237e5b45582200d097b091e9843/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--4d77d3e0ff6638c5edc7cfe60a7817354ab07b7b/data%20(2).png" width="20.0px" height="20.0px"></a>
+    </div>
+    <div class="font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
+      <a href="/users/bA6tp1">alookso 데이터팀</a>
+    </div>
+    <div class="items-center hidden group-post-date-visible-base:flex">
+      <span class="mr-1 text-xs text-gray-500">
+        ·
+      </span>
+      <div class="font-light text-gray-400 text-xxs">
+        2022/04/15
+      </div>
+    </div>
+  </div>
+
+        <div class="mb-1 mt-1.5 space-y-1 group">
+          <div class="text-lg font-semibold text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1">
+            <a href="/posts/E7t93rq">[투표] 일자리를 만드는 것이 정부의 책임 중 하나라고 생각하시나요?</a>
+          </div>
+          <div class="hidden group-post-body-visible-base:block">
+            <div class="hidden md:line-clamp-2 md:block">
+              <h6 class="font-normal text-gray-500">
+                  <a class="trix-content-post-partial" href="/posts/E7t93rq">
+                    <div class="break-all trix-content line-clamp-2">
+                        &nbsp;이코노미(Economy)는 원래 보통 사람들의 살림살이를 부르는 말이었습니다.&nbsp;
+
+'보통 사람들의 경제' 토픽은 보통 사람들의 삶과 직결된 경제를 이야기합니다.&nbsp;
+
+여기 이 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.
+
+
+
+                    </div>
+</a>              </h6>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center text-xs font-light text-gray-500">
+  <div class="mr-2 group-post-topic-invisible-base:hidden">
+    <div class="group-posts-post-topic-invisible-base:hidden">
+    <span class="inline-block">
+      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+        <a href="/topics/people_economy">
+          보통 사람들의 경제
+</a>      </button>
+    </span>
+</div>
+  </div>
+  <div class="flex items-center space-x-2">
+    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/E7t93rq#reply">
+          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-article"></use></svg>
+          <span data-qa="children-count">4</span>
+</a>    </span>
+    <div class="h-full whitespace-nowrap like_button_post_E7t93rq border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMDU6MjI6MzIuNDM5WgY7AFQ%3D--c03b2c79544e7e9389cdbef3d6678dd953ecab89"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
+    <span class="font-light ">
+      16
+    </span>
+</button><input type="hidden" name="authenticity_token" value="5uCI_KL2nlDQEVjYNd5YSfZRPpgMGCCzEJWtoUXvf-0KX32sGhQBKao7iYt5dGZeThVED56gUSamTR7idsG0VQ" autocomplete="off"></form></div>
+  </div>
+</div>
+    </div>
+    <a href="/posts/E7t93rq"></a>  </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BTS에게 날아올 입영통지서? [토론소] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/M9t485B</link>
+            <guid>https://alook.so/posts/M9t485B</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[서론
+정치권은 가끔 시민사회에 어려운 질문을 던집니다. 최근 이런 질문을 던졌습니다.
+
+
+방탄소년단(a.k.a. BTS)은 군대에 가야할까요?
+
+이 질문은 무엇보다 BTS에게 시급한 현실입니다. BTS 7명의 멤버 중 맏형인 진은 올해 만 30살이 됩니다. 연말에 입대할 가능성이 높습니다. 입대는 한국 남자 청년에겐 피할 수 없는 문제입니다. BTS의 소속사 하이브 관계자도 “병역 제도 시점을 예측하기 어려운 점이 있어 아티스트가 힘들어 하는 것도 사실"이라고 했습니다.
+
+
+정치권이 먼저 이 괴로움에 호응했습니다. BTS가 병역 의무를 회피할 방법은 없습니다. 다만, 현역 입대가 아니라 다른 방법으로 병역 의무를 치를 방법은 있습니다. 법을 바꾸면 됩니다. 소위 병역특례 제도입니다. 병역법은 일정한 요건이나 자격을 갖춘 청년들에게 대체 복무를 허용해 줍니다. 그 중 하나가 예술·체육요원입니다. 정부와 여야가 공히 BTS 같은 대중예술인도 이 예술체육요원에 포함시키는 것을 골자...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[음식은 대행에 대행을 타고 온다 [얼룩차트] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/njt1wq1</link>
+            <guid>https://alook.so/posts/njt1wq1</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
+
+띵동,하는 소리와 함께 나타나는 반가운 사람들이 있습니다. 예전엔 오직 택배기사였지만, 요즘은 배달 라이더들도 그렇습니다. 특히 고단하고 배고픈 날이면, 이 라이더들이야말로 작지만 확실한 기쁨을 전해줍니다.
+
+
+이런 작고 확실한 기쁨은 우리에게 어떤 과정을 거쳐 오는 걸까요. 과거엔 간단했습니다. ‘철가방’이라고 부르던 중국집 배달부를 기억하시나요? 우리가 중국집에 전화해서 배달 주문을 하면 중국집에 고용된 배달부가 음식 식지 말라고 철가방에 음식을 넣고 달려왔습니다. 단순했죠. 지금은 이런 직고용 구조는 거의 사라졌습니다.
+
+
+최근 국회입법조사처에서 낸 보고서 ‘음식배달산업 현황과 배달라이더의 소득자료 제출에 따른 쟁점’에 나온 차트(이 차트도 공정거래위원회 자료를 재인용한 겁니다. 오늘따라 복잡하네요)가 지금의 음식 배달 구조를 간략히 잘 보여줍니다.우리가 배달앱으로 음식을 주문하면 둘 중 하나의 경로를 거쳐...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[들썩들썩 오르는 장바구니 물가 [얼룩 차트] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/mbt7BvJ</link>
+            <guid>https://alook.so/posts/mbt7BvJ</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
+
+최근 물건을 사다가 가격을 보고 놀라신 적 있나요? 과일, 우유, 심지어 소주마저도 가격을 올린다는 뉴스가 연일 이어졌습니다. “한달 전엔 분명 이 가격이 아니었는데” 싶은 생각, 한번쯤은 하셨을 겁니다.
+
+
+우리가 보는 물건값은 곧 세계 경제와 직접 연결되어 있습니다. 2020년 초, 코로나가 확산되자 세계 경제가 얼어붙었습니다. 각국 중앙은행은 곧바로 양적 완화 정책을 실시합니다. 즉 금리를 거의 0으로 유지해 시중에 돈을 푼 것이죠. 덕분에 침체됐던 경기가 곧 살아났습니다.
+
+
+하지만 모든 동전에는 양면이 있는 법. 지난해부터 물가를 걱정하는 목소리가 커졌습니다. 시장에 돈이 흘러넘치자 물건값이 점점 올랐기 때문입니다. 각국은 이제 반대로 금리를 인상하려 합니다.
+
+
+다시 돌아와서 우리가 장볼 때마다 체감하는 물건값, 일명 ‘장바구니 물가’는 통계청이 매달 발표하는 소비자물가지수로 가늠할 수 있습니다. 소비자...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[특성화고 졸업자, 취업은 점점 어렵다 [얼룩 차트] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/6Mt600r</link>
+            <guid>https://alook.so/posts/6Mt600r</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
+
+지난 얼룩 차트에서 ‘대학 졸업 후 지역을 떠나는 청년들’을 소개했습니다. 청년 실업을 말할 때의 ‘청년'은 대졸자만 포함되지 않습니다. 대학에 진학하지 않거나, 고등학교 중퇴 혹은 졸업 후 바로 취업 전선에 뛰어드는 청년들도 있죠.
+
+
+며칠 전 “청년 33%가 첫 일자리를 비정규직으로 시작한다"는 뉴스가 포털에 쏟아졌습니다. 한국청소년정책연구원이 만 18~34세 청년 약 2천명을 대상으로 일자리 실태를 조사했는데, 그 보고서를 인용한 보도였습니다. 보고서는 청년의 첫 사회 진출을 주제로 설문과 면접을 진행하고, 정책 진단까지 정리했습니다.
+
+
+보고서 속에 고졸 청년의 삶을 엿볼 수 있는 자료도 있습니다. 과거 실업계고·전문계고라 불렀던 특성화고 졸업자의 취업률도 포함됐습니다. 특성화고는 취업을 목적으로 전문 직업인을 양성하는 교육기관입니다. 당연히 ‘특성화고를 졸업하면 취업이 더 잘 될 것이다'라고 생각하기 마련...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문재인 케어 4년, 건강수명 늘고 건보적자도 늘고 (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/rDtvakZ</link>
+            <guid>https://alook.so/posts/rDtvakZ</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령의 임기가 끝나가고 있습니다. 곧 시작될 새 정부에 관한 기대와 관심이 높은 상황이지만, 이전 정부의 공과에 관한 정리도 필요한 시점입니다. alookso에서 문재인 정부의 여러 정책과 그 영향을 몇 가지 간단한 데이터로 돌아보는 콘텐츠를 준비했습니다. 총 5회로 연재될 예정입니다. 5년의 공과를 망라하기엔 턱없이 모자란 분량입니다. 사회 및 경제 분야에 집중해 전체를 조망하는데 도움이 될 만한 정보 위주로 소개해 보겠습니다. 얼룩커 여러분의 많은 관심, 그리고 가능하다면 참여도 부탁드립니다.
+네번째는 ‘문재인 케어'입니다. 국민건강보험의 보장성을 확대하는 걸 골자로 하는 복지정책입니다. 취임 3개월 만인 2017년 8월부터 본격 시작했을 정도로 서둘렀고, 또 그만큼 공도 많이 들인 이번 정부 핵심 정책 중 하나입니다. 최근 임기 만료를 앞두고 국정 성과를 홍보하는 페이지에서도 문재인 케어의 내용과 성과를 상세하게 설명하고 있습니다.&nbsp;
+
+
+정책 추진의 결과 건강보...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[alookso 토픽은 계속 진화합니다 (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/pot7zeP</link>
+            <guid>https://alook.so/posts/pot7zeP</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[토픽은 alookso가 우리 시대를 이해하는 지도입니다. 정치, 경제, 사회, 문화, 국제라는 지도가 우리에게는 더 익숙합니다. 기존 미디어가 이런 지도로 세상을 봅니다. 얼룩소는 이 익숙한 지도를, 우리 삶에서 중요한 질문은 무엇인가를 기준으로 해체하고 재구성했습니다.
+
+이 8개 토픽은 우리 시대의 중요한 문제가 담겨 있다고 alookso가 생각하는 주제들입니다.
+
+기존 12개 토픽이 8개 토픽으로 줄었습니다. alookso가 우리 시대를 보는 지도 역시 계속 진화해 나갈 것입니다. 얼룩커 여러분들이 이 진화를 만드는 힘입니다.
+
+
+민주주의의 미래국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
+
+
+보통 사람들의 경제이코노미(Economy)는 원래 보통 사람들의 살림살이를 부르는 말이었습니다. 보통 사람들의 삶과 직결된 경제를 이야기합니다.
+
+
+세계 질서와 세계 경제세계는 과거 그 어느 때보다 복잡...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0JDQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--30f8e2aa2c8810af294baf54048e990ccfafb073/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A5%E1%86%B7%E1%84%87%E1%85%AE%E1%84%8B%E1%85%AD%E1%86%BC_logo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['깡패'(?)국가에 볼모 잡힌 녹색경제 [얼룩 차트] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/yEtER7j</link>
+            <guid>https://alook.so/posts/yEtER7j</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
+
+러시아의 우크라이나 침공은 여러모로 21세기 국제질서의 전환점이 될 사건으로 꼽힙니다. “멀고 먼 나라에서 우리가 잘 모르는 사람들 간에 벌어진 불화” 같지만, 이 사건은 본질적으로 우리의 도덕적 분노와 정의, 양심을 건드리는 문제입니다.
+
+
+그리고, 우리의 일상을 흔들기도 합니다. 러시아는 본질적으로 엄청나게 큰 주유소 같은 나라입니다. 우리도 원유와 천연가스 수입의 상당량을 러시아에 의존하고 있습니다. 대부분의 국가가 긴밀하게 얽혀있는 현대 세계에서 러시아처럼 핵심 원자재를 쥐고 흔드는 국가가 ‘깡패’짓을 하면 그저 골치아픈 문제로 끝나지 않습니다. 이번 침공은 그 사실을 확인시켜 줍니다.
+
+
+큰 사건이 터지면 고민과 걱정도 뭔가 남다른 스케일로 하는 경향이 있는 영국 이코노미스트지가 이 문제를 보여주는 차트 하나를 만들었습니다. 원자재 수출로 먹고사는 나라 중에 러시아처럼 ‘깡패’짓을 할 나라들이 얼마나 있는...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부, 산업에 투자하고 다주택자에게 증세했다 (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/mbtq5p0</link>
+            <guid>https://alook.so/posts/mbtq5p0</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령의 임기가 끝나가고 있습니다. 곧 시작될 새 정부에 관한 기대와 관심이 높은 상황이지만, 이전 정부의 공과에 관한 정리도 필요한 시점입니다. alookso에서 문재인 정부의 여러 정책과 그 영향을 몇 가지 간단한 데이터로 돌아보는 콘텐츠를 준비했습니다. 총 5회로 연재될 예정입니다. 5년의 공과를 망라하기엔 턱없이 모자란 분량입니다. 사회 및 경제 분야에 집중해 전체를 조망하는데 도움이 될 만한 정보 위주로 소개해 보겠습니다. 3편은 정부 재정 지출 및 조세 분야입니다. 이 분야 전문가인 이상민 나라살림연구소 수석연구위원에게 분석을 부탁했습니다. &nbsp;
+
+
+문재인정부를 평가해보자. 여기에 한 두 마디 얹을 말이 없는 사람이 있을까? 문재인정부가 잘한 정책도 10가지가 넘고, 못한 것도 10가지가 넘는다. 잘한 것만 나열하면 이만한 성군도 없고, 못한 것만 추려서 나열하면 이보다 실패한 정부도 없다. 이런 자의적인 평가 말고 정량평가도 가능할까? 가능하다. 나는 재정 데...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5년동안 26번, 부동산 정책이 남긴 건 (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/pot7DMB</link>
+            <guid>https://alook.so/posts/pot7DMB</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 대통령의 임기가 끝나가고 있습니다. 곧 시작될 새 정부에 관한 기대와 관심이 높은 상황이지만, 이전 정부의 공과에 관한 정리도 필요한 시점입니다. alookso에서 문재인 정부의 여러 정책과 그 영향을 몇 가지 간단한 데이터로 돌아보는 콘텐츠를 준비했습니다. 총 5회로 연재될 예정입니다. 5년의 공과를 망라하기엔 턱없이 모자란 분량입니다. 사회 및 경제 분야에 집중해 전체를 조망하는데 도움이 될 만한 정보 위주로 소개해 보겠습니다. 얼룩커 여러분의 많은 관심, 그리고 가능하다면 참여도 부탁드립니다.
+
+두번째 주제는 부동산입니다. 문재인 대통령은 ‘투기와의 전쟁'을 선포하며 집값을 잡겠다는 강력한 의지를 수차례 표명했습니다. 정부가 부동산 시장에 적극 개입해 다주택자가 주택을 보유하는 부담을 높이고, 시세 차익을 줄인다는 구체적인 목표도 세웠습니다.
+
+
+정책 브리핑에 따르면, 문재인 정부는 지난 5년간 부동산 정책을 총 26차례 발표했습니다. 대출 규제부터 과세 기준 상향...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대학 졸업 후 지역을 떠나는 청년들 [얼룩 차트] (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/o7tnKx6</link>
+            <guid>https://alook.so/posts/o7tnKx6</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
+청년 실업은 더 이상 놀라운 뉴스가 아닙니다. 사회적 문제로 떠오른 지 십수 년이 지났지만, 뚜렷한 해법을 찾기는 어렵습니다. 갈수록 치열해지는 경쟁에 오늘도 청년들은 ‘스펙’ 혹은 경력을 쌓으려 취업 시장을 오가고 있습니다.
+
+청년이 곧 대학 졸업자를 뜻하는 건 아닙니다. 하지만 대학 진학률이 70%를 넘나드는 만큼, 대학을 졸업한 고학력자의 취업난에 유독 큰 관심이 쏠립니다. 취업 문턱을 넘은 대졸자들을 추적해 보면 과연 어떤 그림이 펼쳐질까요.
+
+
+한국고용정보원은 매년 대졸자직업이동경로(GOMS)를 공표합니다. GOMS는 졸업자의 노동시장 진입 및 정착과 관련된 항목을 총체적으로 조사한 결과입니다. 아래는 한국직업능력연구원에서 GOMS를 이용, (2018년 졸업자 기준) 대학이 자리잡은 지역과 현 직장 취업지역을 연결한 자료를 다시 시각화한 차트입니다.
+
+
+차트 맨 위에 위치한 수도권 졸업자가 우선 시선을 사로...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[목록 디자인을 변경하였습니다 (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/RGtkrWP</link>
+            <guid>https://alook.so/posts/RGtkrWP</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 프로젝트 alookso의 플랫폼을 만들고 운영하는 플랫폼팀입니다.
+어제 서비스 내의 목록 디자인을 변경하였습니다. 정보를 효과적으로 전달하고, 노출되는 목적에 맞게 개선하는 데 중점을 두었습니다. 현재 플랫폼은 기존의 서비스와는 다른 특징들이 있습니다. 최소 50자 제한, 원글처럼 작동하는 답글, 뉴스와 커뮤니티와 SNS 성격의 혼재 등입니다. 이들은 ‘맥락이 드러나고 집단지성이 작동하는 미디어와 공론장’을 만들기 위해 선택한 특징입니다. 초기부터 지금까지의 기능 개선과 메뉴의 분화는, 팀이 얼룩커들과 함께 배우고 개선하는 과정이었습니다.
+목록을 작업하면서 팀은, 어떨 땐 뉴스 같고, 어떨 땐 SNS의 피드 같고, 어떨 땐 커뮤니티의 게시글 같은 글을 표현할 방법이 무얼까를 찾아왔습니다. 최초로 도입했던 디자인은 아마도 뉴스나 블로그에 가까웠을 테고, 지금은 SNS나 커뮤니티에 조금 더 가까워졌습니다. 자세히 살펴보시면 어떤 메뉴에서 보여지느냐에 따라 디자인과 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFpDQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--58e00a3415815f3754b95b838875901115b6e7c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[토픽을 개편하였습니다. (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/KmtD5ma</link>
+            <guid>https://alook.so/posts/KmtD5ma</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 프로젝트 alookso입니다.&nbsp;
+토픽 개편 소식을 전합니다. alookso 프로젝트는 현재 베타 실험중에 있으며, 베타 중반을 맞이하여 토픽을 개편하였습니다. 변경된 토픽은 토픽 탭에서 확인할 수 있습니다. 관심있는 토픽을 확인하여 다른 사람들의 글을 읽고 여러분의 소중한 의견을 남겨 보세요.
+오늘은 변경 사실만 알려드려요. 곧 에디터팀에서 변경된 토픽을 소개할 예정이니 많은 관심 부탁드려요.
+그 외에도 ‘오리지널 탭'에 ‘alookso 시리즈’ 계정을 신설하여 추가했습니다. 오리지널 탭에서, 혹은 alookso 시리즈 계정의 구독을 통해 ‘대선과 20대’, ‘대통령의 이사’, ‘부동산 대출 규제. 풀까, 조일까?’ 등 최근 발행된 시리즈와 같은, 사회의 중요한 이슈를 심층적으로 다루는 시리즈들을 확인 할 수 있습니다.
+
+
+
+
+
+
+우리 사회의 문제들을 이해하고 함께 해결하기 위해 시작한 프로젝트 alookso와 함께 해주셔서 항상 감사하다는 말씀을 전합니다. 곧 다...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnYyQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2634c4c7bf367b915239f81c98d2156fad026361/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FET2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--03e61ef78c29925b4dd0893f684e472e94efcabc/photo_2022-04-01%2015.48.57.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[투표 기능을 추가하였습니다 (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/mbt19P</link>
+            <guid>https://alook.so/posts/mbt19P</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 프로젝트 alookso입니다.
+오늘 기쁜 마음으로 투표 기능 추가 소식을 전합니다. 투표는 우리 사회의 다양한 관점을 드러내는 동시에, 얼룩커 여러분들이 스스로의 관점을 확인하고, 유사한 관점을 가진 그룹을 발견하고 교류하면서 다시 자신의 관점을 키우는 데 도움이 되길 기대하며 만들었습니다. 우선 토픽과 현안별로 얼룩커들의 다양한 관점을 표현할 수 있는 투표를 alookso 팀이 선보일 계획입니다. 기능이 안착되면 얼룩커들도 투표를 생성하도록 기능을 확장하겠습니다. 투표는 뜨는 글 메뉴의 투표 탭에서 확인할 수 있습니다. 흥미로운 투표에 여러분의 소중한 의견을 남기고, 새로운 글로 의견을 펼쳐 보세요.
+
+프로젝트 alookso의 매니페스토가 "맥락을 경험하는 미디어, 집단지성으로 문제를 해결하는 공론장에서 당신의 관점을 발견하고 나누세요"로 시작한다는 사실을 알고 계신가요? alookso 팀은 맥락, 문제해결, 관점이란 키워드로 다양한 실험을 펼치며 1년에 가까...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelRMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f51f24e59b4462ebbc260b8f26599025193277d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[답글: 기타소득세에 관련하여 안내해 드려요. (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/Kmt03x</link>
+            <guid>https://alook.so/posts/Kmt03x</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? 규니베타 얼룩커!
+alookso 입니다:)
+
+기타소득세에 관련하여 안내해 드려요.
+
+우선, 2018년 대비 2019년의 기타소득세율이 상승 된 것은 사실이지만, alookso에서 보상으로 지급하는 기타소득은 일반적인 기타소득과는 차이가 있어요.
+
+alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따라 ‘상금’의 성격으로 80% 필요 경비 적용하는데요. 상금의 경우 4.4%를 공제 후 지급하게 됩니다.
+
+이와 관련된 내용은 규니베타 얼룩커께서 참조해주신 국세청 자료에도 설명되어 있는데요, 더 궁금하시면 아래 링크를 참고해 주세요!🙂alookso에서 자주 만나요!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 포인트 출금 신청을 할 수 있습니다 (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/4XtLBd</link>
+            <guid>https://alook.so/posts/4XtLBd</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 얼룩커 여러분. 하루라도 빨리 전해 드리고 싶었던 소식을 전합니다. 
+
+오늘부터 지난 한 달의 활동으로 지급 받으신 포인트를 출금 신청할 수 있습니다. 프로필 페이지에서 출금 신청을 할 수 있고, 영업일 기준 10일 이내에 입금을 확인할 수 있습니다. 출금 금액이 25만원을 넘길 경우 기타소득세를 제하고 지급하며, 번거롭겠지만 고유식별정보를 제공해 주셔야 합니다. alookso는 이 정보를 입금과 소득세 처리에만 활용하며 다른 용도로 절대 사용하지 않습니다. 
+
+포인트 출금 기능을 준비하면서 뜨는글, 토픽, 투데이도 변화를 적용했습니다. 얼룩커의 글과 글이 서로 맥이 이어지고 더 깊은 논의가 촉발되도록, alookso의 오리지널을 제외한 얼룩커들의 글로만 뜨는글 페이지를 채우도록 변경했습니다. 또한 토픽을 중심으로 맥락을 유지하면서 새로운 글을 읽을 수 있도록 변경했습니다. 투데이에서도 토픽의 맥락에서 오리지널과 얼룩커들의 글을 읽을 수 있게 되었습니다. 맥락을...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTFVQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--043f294d3f0cb06bc0d53ed6fa33ae0acdc909b7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[alookso가 포인트를 드립니다 (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/G1txLx</link>
+            <guid>https://alook.so/posts/G1txLx</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 얼룩커 여러분. 연휴는 잘 쉬셨나요?
+프로젝트 alookso가 1월 17일부터 1월 30일까지 얼룩커 여러분 각각의 활동에 대한 포인트를 방금 나눠드렸는데요. 포인트 지급 대상 얼룩커들에게 메일과 알림으로 안내를 드렸고, 본인의 프로필에서 현재 포인트를 확인할 수 있습니다. 작년의 얼룩커픽과 에디터픽으로 나눠 실행했던 방식에서, 활동과 기여에 기반한 포인트 방식으로 개선하였습니다.
+최소 포인트 적립은 1,000포인트이며, 최대 적립 포인트에 대한 제한은 없습니다. 포인트 지급은 2주 단위로 사용자 활동을 바탕으로 실행하며, 현재 두 번째 주기가 진행중입니다. 다음 포인트 지급은 2월 14일이 되겠네요.
+포인트를 최소 10,000점 이상 모으면 언제든지 출금을 신청할 수 있는 기능도 준비 중입니다. 출금 신청 기능은 2주 안에 적용하고, 다시 한 번 알려드리겠습니다. 또한 포인트는 프로젝트 alookso가 끝나는 시점까지 2주 간격으로 적립되며, 포인트 출금은 지...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0FnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--62f5966859e772a6773befe32932eb6c50a18463/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요? (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/G1t1pK</link>
+            <guid>https://alook.so/posts/G1t1pK</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? 스미스 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
+뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
+✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요? (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/OEtmGq</link>
+            <guid>https://alook.so/posts/OEtmGq</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? 김성진 얼룩커! alookso 입니다:)
+안전하고 즐거운 alookso를 함께 만들어 나가기 위해 꼭 지켜주셔야 할 사항 안내드려요.
+
+기사나 다른 이의 글의 전체를 복사해 붙여 넣는 것은 저작권법에 위배되며,&nbsp;alookso 행동강령 및 운영정책에 따라 제재 대상이 됩니다. &nbsp;
+어떠한 기사나 글을 소개하고 싶으신 경우, 
+해당 기사나 글의 주소를 링크🔗해 주시면 다른 얼룩커들에게 충분히 소개가 된답니다.&nbsp;
+전체 복사는 절대 금하여 주시기 바랍니다. &nbsp;인용하고 싶은 구절이 있을 경우에는 일부분만 ‘인용 표시'와 함께 인용해 주세요.
+보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
+✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;
+
+위와 같은 방법으로 작성하신 글을 1일 이내 수정해 주시지 않으면 삭제 처리를 진행합니다.감사합니다.&nbsp;alookso 드림]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요? (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/vKt7bV</link>
+            <guid>https://alook.so/posts/vKt7bV</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? 김선태 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
+뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
+✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요? (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/E7t8Wo</link>
+            <guid>https://alook.so/posts/E7t8Wo</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요? 한윤정 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
+뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
+✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[카우레터] 갈등의 경제적 비용 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/o7tr0XM</link>
+            <guid>https://alook.so/posts/o7tr0XM</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[갈등이 사회적 비용을 증가시켜 경제적으로 손해가 된다는 사실 알고 계셨나요?
+
+
+
+어떻게 분석했을까요?
+
+2018년, 한국행정연구원은 OECD 37개 회원국의 ‘갈등지수’ ‘갈등관리지수’와 1인당 GDP의 관계를 분석한 연구를 발표했습니다. 먼저 ‘갈등관리지수’는 정부의 투명성, 민주주의에 대한 만족도, 법치주의 지수, 시민의 자유 수준, 정부 재분배정책의 소득불평등 개선 효과 등을 종합적으로 평가해 산출했습니다.
+
+
+이제 ‘갈등지수’를 도출할 차례입니다. 한 국가의 갈등 지수는 잠재적 갈등요인을 얼마나 잘 관리하는가에 달려 있습니다. 갈등이 잘 관리된다는 건 그만큼 갈등 자체가 줄어든다는 뜻이니까요.
+
+
+한국행정연구원은 갈등지수 도출을 위해 갈등관리지수와 잠재적 갈등요인을 종합적으로 고려했습니다. 잠재적 갈등요인은 계층, 젠더, 세대 간 자원격차(권력, 재산, 일자리, 임금 등 유무형 자원의 배분 격차)와 가치관격차(집단 간 정치이념, 규범, 태도 등 생각과 의식의 차이)를...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0tSQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8642e76a9c44d9f02f72ef35e5e315e6e6c861c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/stillness-inmotion-ytHZzN9qtoE-unsplash_small.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 일자리를 만드는 것이 정부의 책임 중 하나라고 생각하시나요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/E7t93rq</link>
+            <guid>https://alook.so/posts/E7t93rq</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;이코노미(Economy)는 원래 보통 사람들의 살림살이를 부르는 말이었습니다.&nbsp;
+
+'보통 사람들의 경제' 토픽은 보통 사람들의 삶과 직결된 경제를 이야기합니다.&nbsp;
+
+여기 이 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[투표] '내 집 마련'에 대해 다음 중 어떤 입장에 더 가까우신가요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/lat51br</link>
+            <guid>https://alook.so/posts/lat51br</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;이코노미(Economy)는 원래 보통 사람들의 살림살이를 부르는 말이었습니다.&nbsp;
+
+'보통 사람들의 경제' 토픽은 보통 사람들의 삶과 직결된 경제를 이야기합니다.&nbsp;
+
+여기 이 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 전 세계적으로 민주주의의 미래가 밝다고 생각하세요, 암울하다고 생각하세요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/XBtBon2</link>
+            <guid>https://alook.so/posts/XBtBon2</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
+
+여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 지금 우리나라에 필요한 지도자는 다음 중 어떤 유형이라고 생각하세요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/w9trnWW</link>
+            <guid>https://alook.so/posts/w9trnWW</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.&nbsp;
+
+여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[카우레터] 기후위기 연쇄고리, 산불 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/4Xtwody</link>
+            <guid>https://alook.so/posts/4Xtwody</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[산불이 나면 복구하는 데 짧아도 20년, 길면 100년이 걸립니다. 대형 산불은 점점 잦아지고 있습니다. 자연은 언제까지 버틸 수 있을까요?어떻게 분석했을까요?
+산림청은 산불 발생시간과 장소, 발생 원인, 피해 면적 등을 정리해 ‘산불 피해대장’을 엑셀 파일로 제공합니다. 이를 종합해 매년 초 ‘산불 통계연보’를 발간합니다. 이 글에서 쓰인 데이터는 2012년 1월부터 2022년 4월 11일까지 정리된 ‘산불 피해대장’을 기준으로 발생 건수와 피해 면적 등을 분석했습니다.
+
+국내 산불 현황(2012~2022) 데이터를 공개합니다. 얼룩커 분들과 함께 살펴보면&nbsp; 더 많은 이야깃거리가 나오지 않을까요?
+
+
+
+데이터는 무엇을 보여주나요?
+
+2012년부터 2022년 4월 10일까지 국내 산불 발생 현황을 보면, 발생 건수와 피해 면적 모두 늘어나는 추세입니다. 2017년부터 대형산불이 지속적으로 발생해 발생 건수에 견줘 피해 면적이 크게 늘어났습니다. 산림청은 100헥타르 이상 확...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1dBQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9a90a6287b382148f2d9a8fa9c0c2a2282a5294/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/GettyImages-1268128811_small.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투표] ‘100세 시대’라고 할만큼 늘어난 평균수명. 이는 우리 사회에 축복일까요, 저주일까요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/8Wtao1W</link>
+            <guid>https://alook.so/posts/8Wtao1W</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
+
+이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.&nbsp;
+
+여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 이제 청년은 사회적 취약계층일까요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/OEtw8eY</link>
+            <guid>https://alook.so/posts/OEtw8eY</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
+
+이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.&nbsp;
+
+여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[카우레터] 집안일은 공짜가 아니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/lat55Ea</link>
+            <guid>https://alook.so/posts/lat55Ea</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6일 정부는 한국의 2022년 SDGs 이행현황을 담은 보고서를 발표했습니다. SDGs(Sustainable Development Goals)는 ‘단 한 사람도 소외되지 않는 것’이라는 슬로건 아래 5개 영역(인간·지구·번영· 평화·파트너십)에서 인류가 나아가야 할 방향성을 제시합니다.
+
+
+이 중 5번째 목표인 ‘성평등 달성 및 모든 여성과 여아의 권한 강화’는 ‘무급 돌봄과 가사 노동에 가치를 부여한다’를 세부 목표 중 하나로 제시합니다. 오랫동안 남성은 경제 활동의 주체로 여겨졌고, 소위 집안일은 모두 여성의 몫이었습니다. 하지만, ‘그림자 노동’에 대한 적절한 보상은 이뤄지지 않았습니다.
+
+
+아침밥을 차리고 설거지를 하고, 집을 청소하는 무급 가사노동은 평일과 주말 할 것 없이 이루어집니다. 무급 가사노동이 만들어내는 가치는 얼마일까요?
+
+
+
+20년째 여전한 가사노동 격차
+
+통계청은 1999년부터 5년 주기로 ‘생활시간조사’를 실시해 왔습니다. 생활시간조사는 수면과...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDU0QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bd4d820a7b21e9bd6c34cbb683e641157b39c36/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/GettyImages-1366433550_small.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 기후위기를 해결하면서 인류는 얼마나 큰 고통을 겪을까요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/yEt11x9</link>
+            <guid>https://alook.so/posts/yEt11x9</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
+&nbsp;
+이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
+
+여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2020 도쿄 패럴림픽 선수들의 비전 시각화 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/QDjtZd</link>
+            <guid>https://alook.so/posts/QDjtZd</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 두둔스 님의 지난 쏘프라이즈 선정작입니다.
+
+올림픽위원회 홈페이지는 패럴림픽에 출전한 모든 선수들의 프로필을 제공합니다. 선수들의 프로필에는 나이, 성별, 종목 등 기본적인 정보뿐만 아니라, 그들의 운동 철학(Philosophy), 목표(Ambition), 롤모델(Hero) 등의 정보도 있습니다.&nbsp;
+
+
+이번 도쿄 패럴림픽에서 보치아 금메달을 따낸 최예진 선수의 프로필인데요. 목표(Ambition)는 도쿄 패럴림픽에서 금메달을 따는 것, 운동 철학(Philosophy)은 "보치아는 2012 패럴림픽 전까지는 내 꿈이었고, 이후엔 내 미래에 대한 희망이다"라고 합니다! 목표를 이뤘다니 정말 멋지네요 :) 
+
+
+2020년 도쿄 패럴림픽에 참가한 선수들은 총 4,500여명입니다. 이들의 운동 철학(Philosophy), 목표(Ambition), 롤모델(Hero)은 무엇인지 분석해보았습니다.&nbsp;
+
+
+
+1. 운동 철학(Philosophy)
+모든 선수들의 운동 철학을 하나의 텍스트로 합...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[샐러리캡(Salary Cap)의 갭(Gap)은 적절한가요? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/A92tB6</link>
+            <guid>https://alook.so/posts/A92tB6</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 arbos 님의 지난 쏘프라이즈 선정작입니다.
+
+
+
+2020 도쿄 올림픽 폐막도 벌써 한 달이 넘었습니다. 그러나, 아직 저의 기억에는 생생하게 남아있습니다. 특히, 기억에 남는 경기가 몇 개 있는데 그중 하나는 여자배구 조별 예선 한일전이였습니다. 5세트까지 가는 치열한 접전 속에 12-14로 매치 포인트로 끌려가다가 16-14로 역전승을 만든 모습은 우리에게 큰 감동을 주었습니다. 이 경기의 지상파 3사 합계 시청률은 25.8%로 도쿄 올림픽 전체 경기 중 5위를 차지할 만큼 관심도 뜨거웠습니다.
+뜨거웠던 경기만큼, 경기 이후에도 많은 관심을 받았던 것은 "샐러리캡"이었습니다. 도쿄 올림픽 여자 배구 동메달 결정전이 마친 뒤 한국배구연맹(KOVO) 홈페이지에는 여자 배구 리그의 샐러리캡을 상향하라는 항의성 글이 다수 올라왔습니다. 이후, KBS 다큐인사이트 "국가대표"편에서 김연경 선수의 발언으로 이 논의는 더 뜨거워졌습니다. 해당 다큐에서 "남녀 배구의 연봉 차이의 기...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[코호트를 통해 본 노인 계층의 소득 구조 불평등 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/AdztZL</link>
+            <guid>https://alook.so/posts/AdztZL</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 Lee&amp;amp;Lee 님의 지난 쏘프라이즈 선정작입니다.
+
+서론
+
+
+&nbsp;UN은 65세 이상을 노인으로 규정하고, 노인 인구가 차지하는 비율이 7%이상이면 고령화사회, 14% 이상이면 고령사회, 20% 이상이면 초고령사회로 분류한다. 이 기준에 따르면 대한민국은 2017년에 이미 고령사회가 되었으며, 2021년 8월 기준 노인인구 비율은 16.9%로, 통계청은 대한민국이 2025년에는 초고령사회에 도달할 것으로 전망하고 있다.&nbsp;
+
+
+&nbsp;전세계에서 유례없이 빠른 속도로 고령화가 진행됨에 따라, 노인의 소득불평등과 양극화 문제가 커다란 쟁점으로 나타나고 있다. 노인 집단 내의 소득 불평등은 비노인 집단보다 더 크며, 지속적으로 악화추세를 밟아오고 있다.
+
+&nbsp;우리 정부는 노인세대의 불평등을 감소시키기 위해 다양한 정책적인 제도를 펼쳐치고 있으나, 실정법상 복지서비스의 수혜대상을 제한하기 위한 기준, 제재나 처벌 또는 불이익 대상자를 확정하기 위한 기준, 고용관련 기준 모두 65세 또...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제주판 부메랑세대 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/Q70tK7</link>
+            <guid>https://alook.so/posts/Q70tK7</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 호박고9마 님의 지난 쏘프라이즈 선정작입니다.
+
+1. 서론
+- 부모님이 서귀포시 마을인 도순과 하원에서 태어나고 만나 결혼했고, 이후 육지에서 생활하고 있습니다. 부모님은 제주도에 돌아갈 계획이시고, 저는 아직 서울에서 대학 생활을 하고 있으며, 제주도에 내려갈지는 고민 중에 있습니다. 평소 우리 가족이 고민과 관련된 질문을 보고, 제 생각을 소소하게 이야기해보고자 합니다.&nbsp;
+
+
+
+2. 제주도 이탈자 분석- 우선 제주도에서의 인구이동 흐름을 보고 어느 층이 빠져나가는지를 확인해보고자 합니다.- 공공데이터 포털의 2021년 4월 연령 기준으로 전국의 전출지/전입지 이동 데이터를 통해서, 제주도의 인구 이동을 확인해보겠습니다. &nbsp;
+&nbsp;&amp;lt;전국 지역 별로 이동자수에 따른 도표 &amp;gt;&nbsp;- 제주도의 이동량 자체는 타 지역구에 비해서 적습니다. 전국에서 세종특별자치도 다음으로 가장 이동량이 적은 지역구입니다.&nbsp;&nbsp;- 아무래도 관광 목적의 입도객을 측정하는 것이 아니기 때문일 것입니...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[군필의 가치 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/APvt1X</link>
+            <guid>https://alook.so/posts/APvt1X</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 arbos 님의 지난 쏘프라이즈 선정작입니다.
+
+
+스톡홀름국제평화연구(SIPRI)는 2020년 기준 전세계 군비지출이 1조 9600억 달러(약 2256조 원)으로 추산했다.[1] 이는 전 세계적으로 1인당 약 250달러(약 29만원)가 소요되고 있다는 의미이다. 무기 구입부터 훈련 수행 비용에 이르기까지 다양한 형태로 군비지출은 이루어진다.
+
+이는 한국 역시 크게 다르지 않다. 대한민국 국방부 역시 2020년 본 예산 기준 약 50조 원(약 457억 달러, GDP의 약 2.8%)의 예산을 마련했으며, 2021~2025 국방중기계획(정부재정법에 따라 다음 5년의 예산을 미리 계획하고 국회의 동의를 통해 확정한다) 상의 예산으로 약 300.7조 원이 할당되었다.[2]
+개인 차원에서 군필(본 글에서는 제대 군인의 범위를, 중/장기 복무 제대 군인이 아닌 「병역법」 또는 「군인사법」에 따라 군 의무 복무를 마치고 전역한 사람을 대상으로 한다)의 가치를 따지기 앞서 사회 차원에서 군...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여성가족부, 어떤 일을 어떻게 해왔을까? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/AyEtOJ</link>
+            <guid>https://alook.so/posts/AyEtOJ</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 woo 님의 지난 쏘프라이즈 선정작입니다.
+
+안녕하세요!그간 관심있게 생각했던 주제와 도구를 함께 써보았습니다.&nbsp;
+---
+아래 링크의 문서로 본문을 대신합니다.https://observablehq.com/@minwoo/about-mogef]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기후악당 김탄소 씨의 하루 이산화탄소(CO₂) 배출량 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/Na0tdz</link>
+            <guid>https://alook.so/posts/Na0tdz</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 22도 님의 지난 쏘프라이즈 선정작입니다.
+
+기후악당 김탄소 씨의 하루 이산화탄소(CO₂) 배출량&nbsp;
+
+
+- 기후 변화에 미치는 영향 중 중요 요소가 이산화탄소임은 부인할 수 없는 사실입니다. 두 개의 다른 분자가 결합한 이산화탄소는 지구 대기권 밖으로 나가지 못하고 지구를 온도를 높여 온실을 만들어 냅니다. 이 온실의 심각성은 이전 쏘프라이즈 답변(https://soprize.so/answer/247) 등에서 찾아보시면 좋겠습니다.&nbsp;기후 악화의 주범인 이산화탄소 발생을 주안점으로 한 개인(김탄소)을 선정하여 김탄소 씨의 탄소 배출량을 추적하는 일명 Carbon Footprint(탄소발자국)를 환산해보았습니다.&nbsp;
+
+
+
+김탄소 씨의 하루 CO₂ 총량: 9.99톤
+김탄소 씨&nbsp; 1일 탄소배출량 = 9.99톤(1일 한국인 기준 83.7%)
+
+
+한국인 평균 1일 탄소배출량 =11.93톤(2019년 기준)입니다. (출처: https://essd.copernicus.org/article...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대한민국의 산업재해 현황과 추정손실액은? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/Aq1t6M</link>
+            <guid>https://alook.so/posts/Aq1t6M</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 뜨또 &amp;amp; 주영 님의 지난 쏘프라이즈 선정작입니다.
+
+&amp;lt;해당 글은 2명의 공동작업으로 진행됐습니다.&amp;gt;뜨또 : 데이터 분석과 글쓰기의 실력을 향상할 수 있는 기회가 되었으면 좋겠습니다 ;)주영 : 그동안 눈팅만 하다가 처음으로 글을 쓰게 써봅니다. 아직 혼자쓰는 것이 아직은 어렵게 느껴져 같이 데이터 공부를 하던 친구와 함께 시작하게 되었습니다. 이제 막 취업에 성공한지라 산업재해라는 주제에 더 관심이 가서 해당 내용으로 진행해봤습니다.
+
+
+
+저희 글 내용은 크게 2가지로 구성되어 있습니다.① 산업재해 현황② 산업재해 손실액 추정
+
+
+산업재해 현황은 어떻게 되는지 또 산업마다 재해가 어떻게 발생되고 있는지 알아보고 산업재해가 가져오는 손실액을 추정하여 봅시다!
+
+
+
+
+1. 한국의 산업재해 현황은?
+
+ 대한민국의 산업재해 현황을 확인하기 위해 2010년부터 2019년까지 10년간의 재해자 데이터를 나타내보았습니다. 그래프를 보면 2010년도 재해자수는 98,6...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[로또 1등에 당첨된다면? (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/Alatev</link>
+            <guid>https://alook.so/posts/Alatev</guid>
+            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[🔍 제자백가 님의 지난 쏘프라이즈 선정작입니다.
+
+사람인에 의하면, 직장인들은 로또 당첨 시, 부동산 구입, 퇴직, 가족을 위해 소비하겠다고 응답했다. 2005년 대비2020년 당첨금의 실질가치는 약 3.4억, 아파트 구입 여력은 약 55% 하락했다. 소득대체효과와 구매가능차량수도 크게 감소했다.
+
+
+---질문 제시에 서울 중위 가격이 8.7억이라고 말씀하셨는데, 제가 찾은 자료에서 2020년 연평균 금액은 8.46억이었습니다. 중위가격은 2012년부터 통계를 보유하고 있어, KB 아파트 지수로 2011년 이전 중위값을 추정했습니다.
+
+
+데이터 위치: https://drive.google.com/file/d/1QJCVR6JhYc6SerOpJ30jrKC0Ew1_T28Y/view?usp=sharing
+
+
+140자 제한으로 내용이 너무 많이 줄었는데, 작성했던 원문은 아래와 같습니다.
+
+
+"2020년 사람인 조사에 따르면, 직장인들은 대출 상환이나 저축을 제외하면 부동산 구입, 퇴...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[尹, 청와대 민정수석실 폐지한다 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/4XtemJb</link>
+            <guid>https://alook.so/posts/4XtemJb</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 민정수석실을 폐지하겠다고 밝혔습니다. 윤 당선인은 "과거 사정기관을 장악한 민정수석실이 합법을 가장해 정치적 반대세력을 통제하는 경우가 많았고, 세평 검증을 위장해 뒷조사를 벌여왔다"고 말했습니다. 민정수석실을 폐지한 뒤 대통령 업무에서 사정, 정보조사 기능은 철저히 배제하겠다는 의지를 보인 것입니다.
+민정수석실은 그동안 검찰 등 사정기관을 정권의 통제 하에 두며 정권 관련 수사에 개입했다는 비판을 받았습니다. 다만 민정수석실 폐지로 인해 검찰의 힘이 더 커지는 것 아니냐는 우려도 나오고 있습니다.
+
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGZQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9e487d6ca4271b3bf27267416a89059c1319528/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/yoon.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선거철 발생하는 ‘선거 쓰레기’, 제도적 변화 필요 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/Zktamyr</link>
+            <guid>https://alook.so/posts/Zktamyr</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[선거 벽보와 현수막 등은 선거가 끝난 뒤 ‘쓰레기'로 남지만, 재활용이 어렵고 매립하거나 소각할 때 유해물질이 발생해 온실가스를 배출해 골치덩이 합니다. 행정안전부는 제20대 대선에 쓰인 폐현수막을 재활용하겠단 방침을 내놨지만, 녹색연합에서는 '현수막 사용 최소화'가 우선이라고 밝혔습니다.
+일각에서는 선거 폐기물 발생을 줄이려면 선거법 등 제도적인 변화가 필요하고, 주요 정당이 앞장서야 한다고 주장합니다. 이와 관련, 현재 우리 국회에서는 작년 11월 더불어민주당 강득구 의원이 발의한 '공직선거법 일부개정법률안'이 계류 중에 있습니다. 발의안에는 전자형 공보물을 원칙으로 하고, 이외에는 재생종이 사용을 의무화하도록 하는 내용이 담겨있습니다.
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNS9QQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4492e469f47c6e072655c2e1628e0839a484ad9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%84%A0%EA%B1%B0%EC%93%B0%EB%A0%88%EA%B8%B0_%EC%97%B0%ED%95%A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대체육, 고기라고 불러도 될까? (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/2xt2yDm</link>
+            <guid>https://alook.so/posts/2xt2yDm</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[최근 이마트가 식물성 고기인 '대체육'을 축산 코너에서 판매하자, 축산업계가 반발하고 나섰습니다. "식물성 식품을 축산 매대에서 파는 것은 소비자 인식 왜곡"이라며, 정부를 향해 식물성 대체 식품에 '고기' 또는 '육(肉)'자 사용을 금지해달라고 요구하고 있습니다.
+대체육 시장이 커지면서 용어 사용에 대한 논의가 시작됐습니다. 현재 시중에 나와 있는 대부분 제품은 '식물성 대체육'이라는 표현을 쓰고 있습니다. 제품 속성을 직관적으로 보여준다는 이유입니다. 논란이 커지자 식품의약품안전처는 대체 식품 관련 용어와 규정 정비에 나섰습니다.
+
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWZQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5b3aae256957efa844684340b71ffc839d9f003/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/vegan.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, 내일 첫 국가 부도 선언 위기 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/q1tGrB8</link>
+            <guid>https://alook.so/posts/q1tGrB8</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[러시아가 우크라이나 침공으로 서방의 강력한 경제 제재를 받고 있는 가운데, 국가 부도 위기까지 맞이했습니다. 러시아는 16일까지 1억 1700만 달러(1445억원) 상당의 달러 표시 채권 이자를 지급해야 합니다.
+하지만 러시아는 이를 이행하지 않겠다는 의사를 밝혔고, 지급하더라도 달러화가 아니라 가치가 폭락한 루블화로 지급하겠다고 했습니다. 사실상 채무불이행(디폴트)을 선언한 상황이라, 실제 디폴트가 되면 이는 1917년 볼셰비키 혁명 이후 러시아의 첫 국제 디폴트입니다.
+
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0xQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--786d1815947b46e227b9d7834f85103278f31589/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/russia.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공동 비대위원장에 ‘추적단 불꽃’ 박지현 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/Vntwj3d</link>
+            <guid>https://alook.so/posts/Vntwj3d</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[민주당 비상대책위원회를 끌고 나갈 윤호중 원내대표가 13일 ‘n번방 추적단’ 활동가 출신인 26살 박지현씨를 비대위 공동위원장으로 임명했습니다. 지난 1월 27일 이재명 후보 선대위 합류로 정치에 입문한 박 위원장은 ‘46일차’의 정치 새내기입니다.
+박 위원장은 석 달 뒤 열릴 지방선거를 앞두고 세 가지 원칙을 적용해 공천 시스템을 바꾸겠다고 약속했습니다. ▶성폭력, 성비위 권력형 성범죄 무관용 원칙을 도입하고, ▶여성과 청년 공천을 확대하겠다고 했습니다. 마지막으로 안희정 전 충남지사의 부친상 빈소에 화환을 보낸 유력 정치인들의 공개 애도를 강력하게 비판하며 ▶정치권의 온정주의를 뿌리 뽑겠다고 했습니다.
+8월 전당대회에서 새 당 대표가 선출될 때까지 박 위원장은 윤 위원장과 ‘투톱’ 체제로 172석의 민주당을 이끌게 됩니다.
+&nbsp;alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.&nbsp;]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDdQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f8db24d5761bcfb177125eacc5d3f248a03d744/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광주 아파트 붕괴사고, 무단 구조변경 등 총체적 관리가 부실했다 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/yEtEazb</link>
+            <guid>https://alook.so/posts/yEtEazb</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[HDC현대산업개발 아파트의 외벽 붕괴사고는 '인재(人災)'로 밝혀졌습니다. 14일 국토교통부 ‘현대산업개발 아파트 신축공사 붕괴사고 사고조사위원회(사조위)’는 사고 발생 63일 만에 조사 결과를 발표했습니다. 조사 결과, 처음 붕괴가 일어난 39층 바닥 시공과 지지방식이 원래 설계도와 달리 임의변경한 것으로 드러났습니다. 1995년 삼풍백화점 붕괴사고 때도 무단 설계 변경이 붕괴사고 원인으로 지적된 바 있습니다.
+이외에도 △불량 자재 사용 △콘크리트 강도 미달 △시공사·감리의 공사관리 부실 등 총체적 관리가 부실했습니다. 안전성 저하 문제가 컸던 이번 붕괴사고는 대형 사고로 이어질 수밖에 없었습니다.
+광주경찰청은 현대산업개발 관계자 5명에 대해 업무상 과실치사상 혐의와 건축법 위반 등 혐의로 구속영장을 신청했습니다.
+
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEhQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87a772589ff3e65741fd8d41d61f5799850f2cf1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EA%B4%91%EC%A3%BC_%EC%97%B0%ED%95%A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인수위 톱3에 안철수·권영세·원희룡 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/3wtEdd7</link>
+            <guid>https://alook.so/posts/3wtEdd7</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 13일 대통령직 인수위원회 위원장에 국민의당 안철수 대표를 임명했습니다. 윤 당선인은 “안 대표는 저와 국정운영 가치와 철학을 공유한다”며 “안 대표도 인수위를 이끌 의지가 있고 저 역시 적임자라 판단했다”고 말했습니다.
+인수위 부위원장에는 4선의 권영세 국민의힘 의원을, 기획위원장에는 원희룡 전 제주지사를 임명했습니다. 두 사람은 윤 당선인 선거 캠페인의 ‘투톱’ 격인 선거대책본부장과 정책본부장을 맡은 바 있습니다.
+
+
+&nbsp;alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.&nbsp;]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTYzQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fcfdf46556c05499bf9495d173ba8eb52618b50a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%95%88%EC%B2%A0%EC%88%98%EC%9C%A4%EC%84%9D%EC%97%B4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 공약 1호 법안 발의... “재건축 때 안전진단 완화” (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/zvtDJ9q</link>
+            <guid>https://alook.so/posts/zvtDJ9q</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘이 윤석열 대통령 당선인의 공약을 뒷받침하기 위해, 재건축 규제 완화 개정 법률안을 발의했습니다. '도시 및 주거환경 정비법' 개정안의 핵심은 낡은 아파트 등을 재건축할 때 거쳐야 하는 안전진단을 완화하는 것입니다.
+안전진단은 재건축의 첫 관문인데, 구조 안전성과 주거 환경, 건축 마감·설비 노후도 등을 기준으로 평가합니다. 국민의힘 측은 “문재인 정부 들어 안전진단을 강화하면서 재건축 불가 판정이 16.5배 증가했다”며 규제 완화의 필요성을 강조했습니다.
+
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMSsyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--457749ec59785467fd8c6a2079ad8b0f10896aa2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/yoon.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 EU 가입 당분간 어렵다 (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/Zkta6XB</link>
+            <guid>https://alook.so/posts/Zkta6XB</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[유럽연합(EU) 회원국 정상들이 10∼11일(현지시각) 프랑스 베르사유에서 만나 러시아의 우크라이나 침공 문제를 논의했지만 우크라이나의 특별 절차를 통한 신속한 유럽연합 가입 방안은 사실상 배제됐습니다. 젤렌스키 대통령은 러시아의 침공을 받은 지 나흘째인 지난달 28일 EU에 특별절차에 따른 즉시 가입을 요청한 바 있습니다.
+유럽연합(EU) 회원국 정상 다수가 우크라이나가 신청한 EU 신속가입에 반대 의견을 나타냈습니다. 옛 소련권 국가를 중심으로 우크라이나가 EU에 빨리 합류해야 한다는 목소리가 적극적으로 나왔으나 네덜란드와 프랑스, 벨기에 등은 회의적이었습니다. EU 가입은 회원국 만장일치로 결정하기 때문에 우크라이나의 가입은 당분간 어려워 보입니다.
+
+&nbsp;alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.&nbsp;]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGkxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b328a02f0f79fa928b9bb0a6fe86ecbd9aa92cf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러 '핑퐁 제재' 들어가... 원자재 수급 차질 속 시장 전망은? (alookso ─ alookso 뉴스못)]]></title>
+            <link>https://alook.so/posts/1RtJEme</link>
+            <guid>https://alook.so/posts/1RtJEme</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공 이후 미국 등 서방의 대러 제재가 잇따르는 가운데, 러시아는 지난 9일 보복성 제재로 수출 금지•제한 품목 500개를 발표했습니다.
+원유가가 급등하는 등 원자재 수급난이 장기화될 경우, 시장 불확실성이 커질 전망입니다.
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWExQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e35fb3ac9603d8ce424ae2fe205470ede3a19479/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%ED%91%B8%ED%8B%B4_%EC%97%B0%ED%95%A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여성비율 낮고, 임금격차 여전한 대기업 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/zvtEr6</link>
+            <guid>https://alook.so/posts/zvtEr6</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[기업분석 전문인 한국CXO연구소, ‘세계여성의 날’(8일)을 맞아 15개 업종별 매출 상위 10위에 포함된 대기업 총 150곳을 대상 조사.
+
+
+So, it matters국내 주요 기업의 여성 직원은 4명 중 1명 꼴. 평균 연봉은 남성직원의 68% 수준인 것으로 나타나. 조사는 2020년 사업보고서에 기초해. 직원 수는 ‘기간의 정함이 없는 근로자’와 ‘기간제 근로자’를 합산한 전체 인원 기준. 미등기임원도 직원 조사 대상에 포함된 결과.
+
+
+
+우리가 아는 것
+150개 대기업의 2020년 기준 전체 직원 수는 83만1096명. 이중 남성 직원은 63만1424명(76%), 여성은 19만9672명(24%). 남성 직원 대비 여성 직원 비중이 절반을 넘는 곳은 150곳 중 14곳에 불과. 롯데쇼핑이 여성 직원 비율 67.7%로 조사 기업 중 가장 많아. 2위는 아모레퍼시픽(66.9%) 3위는 동원F&amp;amp;B(63.4%).
+150개 대기업의 2020년 기준 남성 직원 평균 급여는...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXczQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--073dffdf3275365db703210669e3626c67a302d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030507880001300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘갤럭시 성능 조작 의혹’의 쟁점 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/RGtKYX</link>
+            <guid>https://alook.so/posts/RGtKYX</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자 스마트폰 갤럭시S22 시리즈가 GOS(게임 최적화 서비스) 기능을 통해 필요 이상으로 성능을 제한했다는 논란이 번지고 있음. 삼성전자는 글로벌 성능측정 사이트인 ‘긱벤치’에서 퇴출됨.
+
+So, it matters
+GOS는 고사양 게임을 할 때 자동으로 구동돼 전력 소모량과 발열을 줄이는 기능. 소비자의 안전을 위해 도입됐다는 이 기능이, 소비자를 기만하는 도구로 사용됐다는데.
+
+우리가 아는 것
+
+삼성전자는 새 스마트폰 모델 갤럭시S22를 출시하면서 그래픽처리장치(GPU) 등 주요 성능을 강제로 저하시키는 GOS를 탑재함. 일부 이용자들의 실험에 따르면 GOS 구동 시 GPU 성능이 공식 발표 클럭(818MHz)보다 최대 1/3~1/4 수준으로 저하됨. 5년 전에 나온 아이폰과 비슷한 하드웨어 성능을 보이는 것.
+삼성전자는 2016년 출시한 갤럭시 S7 시리즈부터 GOS를 적용해 옴. 이용자들은 이전까지 GOS 기능을 껐다 켰다 할 수 있었지만, 삼성은 이번에 최신 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDQzQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--25884b27b0d8b76a0e196f4dd4a0ef7f9af261af/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-03-08%20%EC%98%A4%EC%A0%84%2010.50.14.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[또 다시 고개드는 ‘부정선거론’ [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/mbtolo</link>
+            <guid>https://alook.so/posts/mbtolo</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[4, 5일 실시된 대선 사전투표 도중 코로나19 확진자를 대상으로 한 투표 도중 관리를 부실하게 했다는 지적이 제기됨. 
+
+So, it matters
+투표의 공정성은 대의 민주주의의 근간. 그 어떤 제도 보다도 투명하고 엄격하게 관리돼야. 관리가 부실할 경우 책임을 엄정하게 물어야 함. 하지만 관리 부실과 부정 선거는 명백하게 다른 문제. 문제를 부정선거론으로 끌고 가는 행태는 오히려 민주주의에 독이 될 수 있음
+
+우리가 아는 것
+중앙선거관리위원회에 따르면 4, 5일 실시된 대선 사전투표에 전체 유권자 4419만7692명 가운데 1632만3602명이 참여해 한 표를 던짐. 투표율 36.93%로 기존 최고치였던 2020년 21대 총선(26.69%)과 비교해 10.24%포인트나 높아짐.
+
+문제의 발단
+
+문제는 코로나19 확진·격리자 투표 과정에서 부실 관리 정황이 곳곳에서 드러났다는 점. 선관위는 ‘1투표소 1투표함’ 규정에 따라 임시기표소에서 투표한 확진자의 투표용지를 사무원들...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejhsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ed8e56a314f6c4cc7d2ac4a4e975415156767255/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030609950001300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초과근무수당 못 받는 산불재난특수진화대 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/vKtV7w</link>
+            <guid>https://alook.so/posts/vKtV7w</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북에서 좋아요 약 800회・공유 약 900회가 넘을 정도로 화제가 된 글, ‘지금 산불을 끄는 사람들은 소방관이 아니다’.
+
+
+So, it matters글 작성자 박혜영 씨는, 지금 산을 오르내리며 산불을 끄는 사람들은 소방관이 아닌 산림청 소속 ‘산불재난특수진화대'라는 점 강조. 산불은 산림청 소속 산불재난특수진화대와 공중진화대가 진압. 소방관들은 산이 아닌 마을 아래로 내려오는 불 진압.
+
+
+우리가 아는 것
+산림청은 지난 2003년부터 운영해오던 산불전문예방진화대를 2018년부터 산불재난특수진화대로 확대 개편. 하지만 당시 운영에 대한 법적 근거가 없어 10개월 단기 계약직으로 운영돼. 50세 이상 고용 비율이 높고 계약 만료에 따른 인력교체가 잦아. 때문에 안전사고 위험성이 높고 전문성이 낮다는 지적받아.
+지난해 강원 동해안 대형 산불 이후에야 산불재난특수진화대 구성・운영에 대한 법적 근거 마련. 기존 330명 정도였던 인원을 435명으로 확대하고, 그중 160명을...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2trQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ebfffc37c0e937aee5a8664f99e23f041229878f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030700780001300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[학생도 투표하는데, 정치활동은 퇴학? [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/vKtV99</link>
+            <guid>https://alook.so/posts/vKtV99</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[이번 대선은 18세 미만, 즉 일부 청소년이 투표권을 가지는 첫 대선. 다만 일부 학교에선 아직도 학생의 정치활동 제한하는 학칙이 남아 있는데.
+
+
+So, it matters
+2019년 말 선거권 연령이 만 19세에서 만 18세로 낮아진 후, 2020년 총선부터 청소년의 투표 가능해짐. 이번 대선에 첫 투표권을 가진 학생은 약 11만명으로 추정.
+청소년의 참정권은 확대됐지만, 시대착오적인 학칙이 선거와 관련된 학생의 논의를 가로막는 상황. 청소년 유권자를 여전히 ‘미성숙한 존재’로 보는 학교와 교육당국의 인식이 오히려 걸림돌로 작용.
+
+우리가 아는 것
+성남의 한 고등학교가 “학생회 회원은 정당이나 정치적 목적의 사회단체에 가입해 정치활동을 할 수 없다"고 명시한 게 대표적. ‘학생회 회원'은 본교 학생으로 규정돼 사실상 모든 재학생들의 정치활동은 금지됨.
+경남 구미의 한 고등학교는 “외부의 불순 세력에 가입 또는 연계되어 불순 행위나 정치성을 띤 활동을 한 자”를 퇴학에 처...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUFqQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1eb5806c19fe7cb6db2b817ad2e425b95f805bf2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030412080006300%20(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발등에 ‘E불’ 떨어진 삼성 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/PvtR1z</link>
+            <guid>https://alook.so/posts/PvtR1z</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[유럽 최대 연기금 운용사로 약 850조 원을 굴리고 있는 네덜란드 연금자산운용(APG)이 지난달 삼성전자에 ‘탄소배출 감축 실행 계획’을 구체적으로 밝히라는 내용의 서한을 보낸데 이어, 이를 이행하지 않을 경우 주주제안과 소송까지 경고하고 나섬.
+
+So, it matters
+
+APG는 보통주와 우선주를 합쳐 삼성전자에 3조원 정도 투자한 곳. 지분율로 따지면 0.5% 정도. APG의 경고를 무시할 수만은 없는 상황.
+사회적, 환경적 책임을 강조하는 ‘ESG경영’이 화두. 지속가능한 경영을 위해 환경(Environment), 사회(Social), 지배구조(Governance)를 강조하는 것. 특히 기후변화에 대응하기 위해 ‘E’ 대응책을 마련하라는 압박이 기업에 거세게 가해지고 있음.
+
+
+우리가 아는 것
+
+APG에서 아시아태평양 책임투자 총괄을 맡고 있는 박유경 이사는 2일 SBS Biz와 화상 인터뷰에서 "기업들이 구체적인 탄소감축 계획을 제시하지 않을 경우, 주주제안과 소...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG50QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5f9214dab7420054cab01413b73b7f54f197b05/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-03-04%20%EC%98%A4%EC%A0%84%2010.57.46.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[35층 제한 없애는 서울시 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/zvtn3x</link>
+            <guid>https://alook.so/posts/zvtn3x</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[오세훈 서울시장, ‘2040 도시기본계획’(안) 발표. 보행 일상권 도입, 수변 중심공간 재편, 중심지 혁신 통한 도시경쟁력 강화, 도시계획 대전화, 지상철도 지하화, 미래교통 인프라 확충 등의 내용.
+
+
+So, it matters핵심은 ‘35층'으로 제한돼 있던 서울시 아파트 층고 제한 기준을 폐지한 것. 오 시장 “낮은 아파트들로 천편일률적인 한강변의 스카이라인을 다양화하겠다”
+
+
+우리가 아는 것
+‘35층 제한'은 고 박원순 전 시장 시절 시행됐던 정책. 일부 건물이 한강 조망권과 일조권 독점하는 것을 막기 위한 것. 2013년 ‘서울시 스카이라인 관리 원칙'에서 제3종 일반주거지역은 35층 이하, 한강 수변 연접부는 15층 이하로 층고 제한. 35층을 초과하는 재건축안 통과된 적 없어.
+‘35층 제한’이 없어진다고 해도 건물 용적률이 상향되는 것은 아님. 일부 건물을 높이려면 다른 높이는 낮추는 등의 방법으로 이미 정해져 있는 전체 용적률을 맞춰야 한다고. 구체적인 층...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemp0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c25613450de3491ce224dd2955b8aefce970014/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030308130001300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘러시아 규탄' 아시아는 제각각 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/4Xt2qr</link>
+            <guid>https://alook.so/posts/4Xt2qr</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 침공한 러시아 향해 외교적 압박 점점 거세짐. 하나로 똘똘 뭉친 유럽과 달리 아시아는 각국의 사정에 따라 동참 여부 갈린다는데.
+
+
+So, it matters러시아의 침공은 국제법을 명백하게 위반한 사례. 하지만 러시아와 이해관계 직접 얽힌 국가들은 직접적으로 침공 반대 목소리를 내지 않는 상황. 특히 유럽과 비교해 아시아 내에서 침공에 미온적인 목소리 두드러짐.
+우리가 아는 것
+2일(현지시간) 유엔 안전보장이사회는 러시아의 우크라이나 침공을 규탄, 철군을 요구하는 결의안을 채택함. 표결에는 146개국이 참여, 141개국이 찬성함. 반대표 던진 5개국 중 러시아, 벨라루스가 포함된 걸 제외하면 사실상 유럽은 러시아를 향해 한 목소리 냄. 반면 기권한 35개국 중 14개국은 아시아 국가들. 각국의 이해관계에 따라 러시아 제재에 미온적이라는 뜻.
+대표적으로 ‘중립' 입장을 취하는 건 중국. 러시아의 침공 직후 외교부 성명으로 러시아가 “안보에 대해 합리적인 요구"를 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3ZzQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc758579c05f55e6b8db2f5c9fb1cc13831db525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PAF20220303102401009%20(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조종사에게 낡은 전투기 몰게 하지 말자 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/xltwEW</link>
+            <guid>https://alook.so/posts/xltwEW</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난 1월 경기 화산의 한 야산에 추락한 F-5E 전투기의 잔해 조사 결과 연료도관에 ‘머리카락 굵기'의 미세한 구멍이 나 있었다고. 여기로 연료가 새어나와 화재가 나면서 사고가 발생했는데, 이 때문에 기체 정비가 소홀했던 것 아니냐는 지적이 나온다고.
+
+
+So, it matters
+공군에 따르면 통상 이륙 전 기체 정비는 육안으로만 하기 때문에 이런 미세한 구멍은 발견하지 못한 것으로 보인다고.
+공군 관계자가 밝히길 연료도관에 구멍이 생겨서 연료가 샌 사례는 이번이 처음이라고. 그래서 모든 F-5 항공기에 대해 안전상태 점검과 연료도관을 특별점검하기로 했다고 함.
+
+쟁점
+문제의 해당 연료도관은 4년 전 교체한 부품으로 공군 매뉴얼 상 정비교체 기간인 600시간을 다 채우진 않아서 그 기간 동안 별도의 정비는 안 했다고 함.
+하지만 이 기종이 1986년부터 운용한 노후 기종임을 감안하면 좀 더 기간을 짧게 잡고 꼼꼼하게 정비하는 매뉴얼이 필요했던 것 아니냐는 지적도 있다고....]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0xzQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--77bb2841d3f86bb4e04908c1b3d2ee1c00228dfd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022022419290006400.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열-안철수 야권 단일화 선언 [.brf] (alookso ─ alookso 브리프)]]></title>
+            <link>https://alook.so/posts/Yytpnx</link>
+            <guid>https://alook.so/posts/Yytpnx</guid>
+            <pubDate>Sun, 17 Apr 2022 05:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2일, 대통령 선거 전 마지막 TV토론을 마친 국민의힘 윤석열 대선 후보와 국민의당 안철수 대선 후보, 토론회 직후 새벽까지 회동한 뒤 3일 오전 단일화 전격 발표.
+
+
+So, it matters지난 27일 양 후보가 단일화 협상이 결렬됐다고 공식 발표한 지 3일만. 그간 쌓여있던 오해를 풀고 조건 없는 단일화에 합의했다고. 사전 투표를 하루 앞두고 성사된 단일화. 재외국민투표는 이미 끝났고, 본 선거일은 6일 앞둔 상황.
+
+
+우리가 아는 것
+3일 오전 8시 국회 정론관에서 윤-안 두 후보 기자회견 열어. 안 후보는 “‘더 좋은 정권교체’를 위해 뜻 모았다"고 발표. ‘미래・개혁・실용・방역・통합’의 방향성 제시한 ‘국민통합정부’ 추진 목표. 윤 후보가 당선될 경우 인수위원회, 공동 정부 함께 꾸려나갈 것이라고. 대선 뒤 즉시 합당 추진.
+새벽까지 이뤄진 단일화 협상의 물 밑 작업은 국민의힘 장제원 의원과 이태규 국민의당 의원이 힘쓴 것으로 알려져. 단일화 협의를 한 장소...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlBEQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--57f6c5729ed29160331c2293270bb635d6a39b53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/PYH2022030303010001300.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
