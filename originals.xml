@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 10:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 11:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,12 +145,12 @@
           <span data-qa="children-count">5</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_E7t93rq border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMTA6MTU6MzguNjYzWgY7AFQ%3D--6c641ef39f1984f265627d304ced6394c1df63a9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMTE6MTI6NDYuNTAzWgY7AFQ%3D--debc080281cbc591fd65daae9241ab219df2fb2c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       16
     </span>
-</button><input type="hidden" name="authenticity_token" value="dihUQjHOmLPh9E2qGcQC3vUQgp0xal2fSh3Z0PimhxfM8eTMFXXvHWfdN1Cl6tDOaIc1R1oZO42z2ilKEJlNfg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="96yfyx9Wi6mmkaGQ4uHqdDih6RUyzKvpP6hwWOpR5tRInFgBtNnwwXvnc9dybqFCnJxlALT_H7KDZyo6Fu-yXg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
