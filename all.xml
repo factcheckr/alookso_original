@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,12 +145,12 @@
           <span data-qa="children-count">4</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_E7t93rq border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMDU6MjI6MzIuNDM5WgY7AFQ%3D--c03b2c79544e7e9389cdbef3d6678dd953ecab89"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMDY6MTg6MDIuNDIwWgY7AFQ%3D--61ab4e134506d383912e97109a6f7622d52d62f0"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       16
     </span>
-</button><input type="hidden" name="authenticity_token" value="5uCI_KL2nlDQEVjYNd5YSfZRPpgMGCCzEJWtoUXvf-0KX32sGhQBKao7iYt5dGZeThVED56gUSamTR7idsG0VQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="kY8kVewUI6S4Nz36lYN1_4yusta9HzRoSbFYBAsLfVucF_zakzhTSWeDA91oy3MD6kYLJYuu_ClZoAF3ZzJrXQ" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -160,7 +160,7 @@
             <title><![CDATA[BTS에게 날아올 입영통지서? [토론소] (alookso ─ alookso 에디터팀)]]></title>
             <link>https://alook.so/posts/M9t485B</link>
             <guid>https://alook.so/posts/M9t485B</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
             <content:encoded><![CDATA[서론
 정치권은 가끔 시민사회에 어려운 질문을 던집니다. 최근 이런 질문을 던졌습니다.
 
@@ -176,7 +176,7 @@
             <title><![CDATA[음식은 대행에 대행을 타고 온다 [얼룩차트] (alookso ─ alookso 에디터팀)]]></title>
             <link>https://alook.so/posts/njt1wq1</link>
             <guid>https://alook.so/posts/njt1wq1</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
             <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
 
 띵동,하는 소리와 함께 나타나는 반가운 사람들이 있습니다. 예전엔 오직 택배기사였지만, 요즘은 배달 라이더들도 그렇습니다. 특히 고단하고 배고픈 날이면, 이 라이더들이야말로 작지만 확실한 기쁨을 전해줍니다.
@@ -191,7 +191,7 @@
             <title><![CDATA[들썩들썩 오르는 장바구니 물가 [얼룩 차트] (alookso ─ alookso 에디터팀)]]></title>
             <link>https://alook.so/posts/mbt7BvJ</link>
             <guid>https://alook.so/posts/mbt7BvJ</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
             <content:encoded><![CDATA[매주, 흥미로운 차트를 발굴하고 해설합니다. 얼룩 차트입니다.
 
 최근 물건을 사다가 가격을 보고 놀라신 적 있나요? 과일, 우유, 심지어 소주마저도 가격을 올린다는 뉴스가 연일 이어졌습니다. “한달 전엔 분명 이 가격이 아니었는데” 싶은 생각, 한번쯤은 하셨을 겁니다.
@@ -431,7 +431,7 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <title><![CDATA[[카우레터] 갈등의 경제적 비용 (alookso ─ alookso 데이터팀)]]></title>
             <link>https://alook.so/posts/o7tr0XM</link>
             <guid>https://alook.so/posts/o7tr0XM</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
             <content:encoded><![CDATA[갈등이 사회적 비용을 증가시켜 경제적으로 손해가 된다는 사실 알고 계셨나요?
 
 
@@ -451,7 +451,7 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <title><![CDATA[[투표] 일자리를 만드는 것이 정부의 책임 중 하나라고 생각하시나요? (alookso ─ alookso 데이터팀)]]></title>
             <link>https://alook.so/posts/E7t93rq</link>
             <guid>https://alook.so/posts/E7t93rq</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:57 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2022 05:22:34 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;이코노미(Economy)는 원래 보통 사람들의 살림살이를 부르는 말이었습니다.&nbsp;
 
 '보통 사람들의 경제' 토픽은 보통 사람들의 삶과 직결된 경제를 이야기합니다.&nbsp;
