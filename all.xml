@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -145,12 +145,12 @@
           <span data-qa="children-count">5</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_E7t93rq border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMTU6MTQ6MzkuNDUxWgY7AFQ%3D--e4df18991766f1d87a053067229fa87c2235e8a7"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTc5Mjg3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTdUMTY6MTk6MzQuMjcyWgY7AFQ%3D--27a3967eafaa3dffb3d29324e287c7c8e9000486"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       16
     </span>
-</button><input type="hidden" name="authenticity_token" value="Lzch2Cg671Fk6sQlo4KPQDtrJTcXw-g-R9Tkugmg4Nv62uqHZ-C5WafmZDea6fG0baT79HBnRYo0dyk4XI2K8g" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="PG0-5nGWNEM_fUSGA5N5pHKnsOoQTamOu5O4Jg_QoXgzmlw-4-jdONyUw_dDBQvBgL0msC-2v2m0RfLIAKmfHg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
