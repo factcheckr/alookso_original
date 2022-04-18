@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 16:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,7 @@
     <span class="inline-block">
       <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
         <a href="/topics/life">
+            <svg class="inline-block h-3 w-3 mb-0.5 text-purple-500 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-solid-star"></use></svg>
           라이프
 </a>      </button>
     </span>
@@ -70,15 +71,15 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/dzt7om4#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">3</span>
+          <span data-qa="children-count">4</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_dzt7om4 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTY6MTg6MTkuMDE5WgY7AFQ%3D--7def1c53c6f8a91663b6fad462bec1ead9b60c43"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTc6MTg6NTcuNDQzWgY7AFQ%3D--4a20b6688fd2f45220ac06bcecb927fd6354f789"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      16
+      17
     </span>
-</button><input type="hidden" name="authenticity_token" value="mRr2G3QTGqvs9AA2BeOxaqgQ5r8y_NvY6SZA2WgD_wSRnl4Av_ch60CzwDCmMZK1XGRa_7FWsjYq1eIeSS3iyw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="dlyBfkTAIzxTpw8TEIK_PVuGTlYxoJ6KokX9ppNKU7oWXuOcx7ar115Ke6rZHBnnZ0s-Eymt6YJvOu9denRO4A" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -138,6 +139,7 @@
     <span class="inline-block">
       <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
         <a href="/topics/life">
+            <svg class="inline-block h-3 w-3 mb-0.5 text-purple-500 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-solid-star"></use></svg>
           라이프
 </a>      </button>
     </span>
@@ -150,12 +152,12 @@
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_potWJBJ border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTY6MTg6MTkuMDMyWgY7AFQ%3D--645d6368ec40f10c39734a114dc77e77a4c143a4"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTc6MTg6NTcuNDYzWgY7AFQ%3D--d993c9b23336635b4410ad7eb5f2b80b17178b35"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="mRr2G3QTGqvs9AA2BeOxaqgQ5r8y_NvY6SZA2WgD_wSRnl4Av_ch60CzwDCmMZK1XGRa_7FWsjYq1eIeSS3iyw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="dlyBfkTAIzxTpw8TEIK_PVuGTlYxoJ6KokX9ppNKU7oWXuOcx7ar115Ke6rZHBnnZ0s-Eymt6YJvOu9denRO4A" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
