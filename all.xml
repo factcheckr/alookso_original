@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 13:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,7 @@
     <span class="inline-block">
       <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
         <a href="/topics/life">
+            <svg class="inline-block h-3 w-3 mb-0.5 text-purple-500 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-solid-star"></use></svg>
           라이프
 </a>      </button>
     </span>
@@ -73,12 +74,12 @@
           <span data-qa="children-count">3</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_dzt7om4 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTM6Mjc6MTcuODk4WgY7AFQ%3D--6d1eacfb7585aebf00b915992fa4cf8c8dbb0c95"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTQ6MTQ6MDMuNjc4WgY7AFQ%3D--f2fafd8506e44cbac36a1920fc8151e65d10db12"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="kLeBpINwnwnwNkLqrzEeyPLSMaqAi7rg1soYKhjRd--QmJuHfMp9ZFrGXO_n_9jAJScQWds29FBhPVwJHX5Dfg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Lx1QxYP7qO8EsXzO6VhP6glGlNOIPJ3ZO9gAPham6aacwhc3Ak3XUhWVeVR4RjvH_IRcHembGqcn-DMGXIwFlA" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -138,6 +139,7 @@
     <span class="inline-block">
       <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
         <a href="/topics/life">
+            <svg class="inline-block h-3 w-3 mb-0.5 text-purple-500 fill-current"><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-solid-star"></use></svg>
           라이프
 </a>      </button>
     </span>
@@ -150,12 +152,12 @@
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_potWJBJ border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTM6Mjc6MTcuOTEyWgY7AFQ%3D--2e09885f5f46f10927edd3bd7dca8d678a939746"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMTQ6MTQ6MDMuNjg4WgY7AFQ%3D--80fa3bc6a830f35754ef4392021b7b338d517b8f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="kLeBpINwnwnwNkLqrzEeyPLSMaqAi7rg1soYKhjRd--QmJuHfMp9ZFrGXO_n_9jAJScQWds29FBhPVwJHX5Dfg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Lx1QxYP7qO8EsXzO6VhP6glGlNOIPJ3ZO9gAPham6aacwhc3Ak3XUhWVeVR4RjvH_IRcHembGqcn-DMGXIwFlA" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
