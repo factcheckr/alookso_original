@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 04:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,12 +73,12 @@
           <span data-qa="children-count">3</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_dzt7om4 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMDQ6MjA6MzAuMTU1WgY7AFQ%3D--3cbcebb42a30c09a0a91e97a6d4d6680aba2b1c0"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMDU6MTU6MDkuNjU1WgY7AFQ%3D--d3ec7462a4da1f8c088ecae6fc76af94a933ef71"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       9
     </span>
-</button><input type="hidden" name="authenticity_token" value="XWuEhGdnA1UVa2DlFfjwTvPZYDh3_S75-RGv167SveXUpIuV2HUM2v6pfRSn2MR8-e2C3dbLUEhDpyDrfkE-Pw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="xQYJS36UH6H_3pZ97Hl7Z43P_rLzyg26Hh-yVQdVoNql4xzZxIi0Wms0Fr_NA6PZtH-zKx2MLG-6aiMuYmfwxQ" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -150,12 +150,12 @@
           답글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_potWJBJ border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMDQ6MjA6MzAuMTY3WgY7AFQ%3D--67aa24cb94dbb684284e5938cb658dc4c9a36764"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMThUMDU6MTU6MDkuNjcxWgY7AFQ%3D--a599d57cef05e78eb98b23e68375f7a8a0bdb5dd"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       8
     </span>
-</button><input type="hidden" name="authenticity_token" value="XWuEhGdnA1UVa2DlFfjwTvPZYDh3_S75-RGv167SveXUpIuV2HUM2v6pfRSn2MR8-e2C3dbLUEhDpyDrfkE-Pw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="xQYJS36UH6H_3pZ97Hl7Z43P_rLzyg26Hh-yVQdVoNql4xzZxIi0Wms0Fr_NA6PZtH-zKx2MLG-6aiMuYmfwxQ" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
