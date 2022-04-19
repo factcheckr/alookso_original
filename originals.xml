@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 08:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://alook.so/posts/o7trLPW</guid>
             <pubDate>Tue, 19 Apr 2022 05:24:02 GMT</pubDate>
             <content:encoded><![CDATA[“5나노 반도체 수율이 너무 낮아서 걱정된다”]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHV0QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--95783ddd1972f642075175d20c303e486719363d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/10_%E1%84%80%E1%85%AF%E1%86%AB%E1%84%89%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%AE%E1%86%AB_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGl1QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffa2300dbed4a52253cd7a05461c4e75580404b9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/10_%EA%B6%8C%EC%8A%B9%EC%A4%80_%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늘어나는 여성 공무원... ‘티핑 포인트'는 언제쯤]]></title>
@@ -122,12 +122,12 @@
           답글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_RGta2dq border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgzNDg0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDc6MTU6NTMuODY2WgY7AFQ%3D--a7a54a0a43dc0810c8be363c1c8067597aa026f3"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgzNDg0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDg6MTk6MTEuODQzWgY7AFQ%3D--752f71d5bbcc59db58dee817ebd0fcd4808ecb37"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       3
     </span>
-</button><input type="hidden" name="authenticity_token" value="nfa1bZO92xOdzrnGUzGx5kMwUK1yn_vRLJoTAooYSTooyj0WFb3QyOYjVorSOp4FE8ogyw4tNljv6xeWZUh9fw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="NRPwPbCwe49o-pehDCtfel8mu404sdGku1dJn9QGLviIj2rRA0HhW02ppfVzssBGvsOOHZM3-SF4UBGvY9gExg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -200,12 +200,12 @@
           답글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_kZtqvY3 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgzNDgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDc6MTU6NTMuODc3WgY7AFQ%3D--5c813c27a60c41217fd7a8a93ed88ac7245ebb45"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgzNDgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDg6MTk6MTEuODU4WgY7AFQ%3D--8edd81af21a446f6181da3735a624be18f104558"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       3
     </span>
-</button><input type="hidden" name="authenticity_token" value="nfa1bZO92xOdzrnGUzGx5kMwUK1yn_vRLJoTAooYSTooyj0WFb3QyOYjVorSOp4FE8ogyw4tNljv6xeWZUh9fw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="NRPwPbCwe49o-pehDCtfel8mu404sdGku1dJn9QGLviIj2rRA0HhW02ppfVzssBGvsOOHZM3-SF4UBGvY9gExg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -277,12 +277,12 @@
           <span data-qa="children-count">4</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_dzt7om4 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDc6MTU6NTMuODg4WgY7AFQ%3D--18ab3f009d8897510de69b10172a28203c37713f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDg6MTk6MTEuODcxWgY7AFQ%3D--d6dc6f2cea59f39be5e46131059601a997abf87a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       19
     </span>
-</button><input type="hidden" name="authenticity_token" value="nfa1bZO92xOdzrnGUzGx5kMwUK1yn_vRLJoTAooYSTooyj0WFb3QyOYjVorSOp4FE8ogyw4tNljv6xeWZUh9fw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="NRPwPbCwe49o-pehDCtfel8mu404sdGku1dJn9QGLviIj2rRA0HhW02ppfVzssBGvsOOHZM3-SF4UBGvY9gExg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
@@ -354,12 +354,12 @@
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_potWJBJ border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDc6MTU6NTMuODk5WgY7AFQ%3D--02a8dbd3ded77a31a2e76d60d697572abe0e4844"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyMzg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDUtMTlUMDg6MTk6MTEuODg3WgY7AFQ%3D--0d113ebcd1339086d011ae500146ba3a8fe54b94"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-6e11b3ca4dd4a405878a7a0949908779650771ab49bfbbc49d98b44a832327da.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       17
     </span>
-</button><input type="hidden" name="authenticity_token" value="nfa1bZO92xOdzrnGUzGx5kMwUK1yn_vRLJoTAooYSTooyj0WFb3QyOYjVorSOp4FE8ogyw4tNljv6xeWZUh9fw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="NRPwPbCwe49o-pehDCtfel8mu404sdGku1dJn9QGLviIj2rRA0HhW02ppfVzssBGvsOOHZM3-SF4UBGvY9gExg" autocomplete="off"></form></div>
   </div>
 </div>
     </div>
