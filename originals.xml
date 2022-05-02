@@ -4,9 +4,18 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나간 투표 모아보기! (2022년 5월 1호)]]></title>
+            <link>https://alook.so/posts/0ktnl1R</link>
+            <guid>https://alook.so/posts/0ktnl1R</guid>
+            <pubDate>Mon, 02 May 2022 08:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
+</div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[투표] 수도권에 공급할 에너지를 생산하는 발전소는 어디에 지어야 할까요?]]></title>
             <link>https://alook.so/posts/o7trR3y</link>
@@ -106,15 +115,6 @@
 '보통 사람들의 경제' 토픽은 보통 사람들의 삶과 직결된 경제를 이야기합니다.&nbsp;
 
 여기 이 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 각종 이익집단(00협회, 00조합 등)에 대한 당신의 생각은 무엇인가요?]]></title>
-            <link>https://alook.so/posts/mbt7GEn</link>
-            <guid>https://alook.so/posts/mbt7GEn</guid>
-            <pubDate>Tue, 26 Apr 2022 01:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
-
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
         </item>
     </channel>
 </rss>
