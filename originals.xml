@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,7 @@
             <content:encoded><![CDATA[<div class="trix-content">
   <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
 </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzhJQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ae99c7090e41733ced7ee90d2b03b73d535b9f85/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/220502_vote_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[투표] 수도권에 공급할 에너지를 생산하는 발전소는 어디에 지어야 할까요?]]></title>
