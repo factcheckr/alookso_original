@@ -20,6 +20,18 @@ imageSelector = "div img[data-qa='post-cover']"
 waitUntil = "networkidle"
 onFail = "stale"
 
+
+[alookso-series]
+title = "alookso ─ alookso 시리즈"
+url = "https://alook.so/users/oztjE7"
+entrySelector = "div[class='divide-y-8 divide-gray-100 group-post-list-divide-base:divide-y'] div div[id^='post']"
+titleSelector = "p[data-qa='post-title']"
+linkSelector = "h6 a.trix-content-post-partial"
+contentSelector = "h6 > a > div.break-all.trix-content.line-clamp-3"
+imageSelector = "div img[data-qa='post-cover']"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [alookso-platform]
 title = "alookso ─ alookso 플랫폼팀"
 url = "https://alook.so/users/bvZt3k"
@@ -34,17 +46,6 @@ onFail = "stale"
 [alookso-data]
 title = "alookso ─ alookso 데이터팀"
 url = "https://alook.so/users/bA6tp1"
-entrySelector = "div[class='divide-y-8 divide-gray-100 group-post-list-divide-base:divide-y'] div div[id^='post']"
-titleSelector = "p[data-qa='post-title']"
-linkSelector = "h6 a.trix-content-post-partial"
-contentSelector = "h6 > a > div.break-all.trix-content.line-clamp-3"
-imageSelector = "div img[data-qa='post-cover']"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[alookso-newsmot]
-title = "alookso ─ alookso 뉴스못"
-url = "https://alook.so/users/k6tVXZ"
 entrySelector = "div[class='divide-y-8 divide-gray-100 group-post-list-divide-base:divide-y'] div div[id^='post']"
 titleSelector = "p[data-qa='post-title']"
 linkSelector = "h6 a.trix-content-post-partial"
