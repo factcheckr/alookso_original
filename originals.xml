@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/originals</id>
     <title>alookso ─ 오리지널</title>
-    <updated>2022-05-25T06:21:12.440Z</updated>
+    <updated>2022-05-25T07:15:51.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지나간 투표 모아보기! (2022년 5월 3호)]]></title>
+        <id>https://alook.so/posts/kZtqD1x</id>
+        <link href="https://alook.so/posts/kZtqD1x"/>
+        <updated>2022-05-25T07:15:11.957Z</updated>
+        <content type="html"><![CDATA[<div class="trix-content">
+  <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[투표] 한국에 거주하는 미등록 이주민 사이에서 태어난 자녀, 한국 국적을 부여받아야 할까요?]]></title>
         <id>https://alook.so/posts/Yyt6x0R</id>
@@ -100,15 +109,6 @@
         <id>https://alook.so/posts/RGta4ne</id>
         <link href="https://alook.so/posts/RGta4ne"/>
         <updated>2022-05-24T02:02:54.914Z</updated>
-        <content type="html"><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
-
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[투표] 당신이 대통령이라면 어떤 기준으로 국무총리/장관 후보를 지명하시겠어요?]]></title>
-        <id>https://alook.so/posts/yEt1qjD</id>
-        <link href="https://alook.so/posts/yEt1qjD"/>
-        <updated>2022-05-24T02:02:54.916Z</updated>
         <content type="html"><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
 
 여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content>
