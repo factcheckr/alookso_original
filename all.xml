@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,7 @@
             <content:encoded><![CDATA[<div class="trix-content">
   <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
 </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejEvQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4ad738e8cd85e4aa3e3b550c1ad5f24e4eec13/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0525%20topic%20th.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[투표] 한국에 거주하는 미등록 이주민 사이에서 태어난 자녀, 한국 국적을 부여받아야 할까요? (alookso ─ 오리지널)]]></title>
@@ -519,7 +520,7 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <title><![CDATA[지나간 투표 모아보기! (2022년 5월 3호) (alookso ─ alookso 데이터팀)]]></title>
             <link>https://alook.so/posts/kZtqD1x</link>
             <guid>https://alook.so/posts/kZtqD1x</guid>
-            <pubDate>Wed, 25 May 2022 07:15:43 GMT</pubDate>
+            <pubDate>Wed, 25 May 2022 07:15:11 GMT</pubDate>
             <content:encoded><![CDATA[alookso 팀은 토픽과 현안별로 얼룩커들의 다양한 관점을 표현할 수 있는 투표를 월요일부터 금요일 사이 매일 다른 토픽에서 선보이고 있습니다. 이러한 투표를 통해 우리 사회의 다양한 관점을 드러내는 동시에, 얼룩커 여러분들이 스스로의 관점을 확인할 수 있기를 기대합니다.
 
 투표는 토픽 메뉴의 투표 탭에서 확인할 수 있는데요. 혹시 못 보신 분들을 위해 그간 올라온 투표 몇 가지를 모아왔습니다. 흥미로운 투표에 여러분의 소중한 의견을 남기고, 새로운 글로 추가적인 의견을 펼쳐 보세요. 투표 질문을 클릭하면 다른 얼룩커들이 해당 투표에 관해 남긴 의견을 살펴보고, 글을 남길 수 있습니다.
