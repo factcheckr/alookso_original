@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 13:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 14:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘내 홈’을 소개합니다 (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/DjtaZpB</link>
+            <guid>https://alook.so/posts/DjtaZpB</guid>
+            <pubDate>Mon, 30 May 2022 14:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>새로 생긴 ‘내 홈’ 메뉴를 기쁜 마음으로 소개 드립니다.</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkNaQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c54985338fac3f9646235451880c717d603e9422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[시리즈 - 기후위기 시대의 그린노믹스] 모아보기 (alookso ─ 오리지널)]]></title>
             <link>https://alook.so/posts/o7troKW</link>
@@ -93,17 +103,6 @@
             <title><![CDATA[[투표] 선진국은 개발도상국에 탄소배출 감축을 위한 재정지원을 해야 할까요? (alookso ─ 오리지널)]]></title>
             <link>https://alook.so/posts/1RtEol4</link>
             <guid>https://alook.so/posts/1RtEol4</guid>
-            <pubDate>Fri, 27 May 2022 01:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
-
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 기후위기 시대, 가상화폐 채굴을 규제해야 할까요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/rDtRD2o</link>
-            <guid>https://alook.so/posts/rDtRD2o</guid>
             <pubDate>Fri, 27 May 2022 01:12:59 GMT</pubDate>
             <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
 &nbsp;
@@ -289,10 +288,10 @@ by. 구준모(에너지노동사회네트워크 기획실장)
             <guid>https://alook.so/posts/2xtxvk4</guid>
             <pubDate>Mon, 30 May 2022 06:24:26 GMT</pubDate>
             <content:encoded><![CDATA[결코 자발적일 수 없는 ‘자발적 협약’
-RE100은 구속력이 없고 자발적 의사로 참여하는 캠페인이다. 전 세계가 직면하고 있는 기후변화 위기를 막겠다는 취지다. 다국적 비영리기구인 ‘탄소공개프로젝트(CDP)’와 ‘더 클라이밋 그룹’ 주도로 2014년에 시작됐다. 하지만 단순히 참여했을 때 기업의 이미지 제고 정도를 노릴 수 있는 캠페인과는 거리가 멀다. 우선, 자발적 협약이라기엔 다들 꽤나 열심이다. CDP에 따르면, RE100에 정식 등재된 기업은 전 세계 349개다. 2020년 기준 재생에너지 100%를 달성했거나 달성하겠다고 목표한 기업이 전체 가입 멤버의 31%에 이른다. 이들을 포함해 전체의 75%는 2030년까지 재생에너지 100%를 달성할 계획이다. 이는 한국, 유럽연합(EU), 미국 등이 설정한 목표 2050년보다 20년 빠르다.
+RE100은 구속력이 없고 자발적 의사로 참여하는 캠페인이다. 전 세계가 직면하고 있는 기후변화 위기를 막겠다는 취지다. 다국적 비영리기구인 ‘탄소공개프로젝트(CDP)’와 ‘더 클라이밋 그룹’ 주도로 2014년에 시작됐다. 하지만 단순히 참여했을 때 기업의 이미지 제고 정도를 노릴 수 있는 캠페인과는 거리가 멀다. 우선, 자발적 협약이라기엔 다들 꽤나 열심이다. CDP에 따르면, RE100에 정식 등재된 기업은 전 세계 371개다(2022년 5월 30일 기준).
 
 
-애플, 구글, BMW 등 글로벌 기업들의 움직임은 더욱 빠르다. 애플은 우리에겐 용어조차 생소했던 2016년 일찌감치 RE100...]]></content:encoded>
+애플, 구글, BMW 등 글로벌 기업들의 움직임은 더욱 빠르다. 애플은 우리에겐 용어조차 생소했던 2016년 일찌감치 RE100에 가입했다. 2018년에는 소매점, 사무실, 데이터센터 등 기업 운영 영역을 넘어 부품 조달, 서비스 제공 등 사업 활동 전반에 걸쳐 탄소중립을 달성하겠다고 선언했다. 나아가 자신과 거래하는 글로벌 협력업체들에게도 재생에너지 사용 동참을 요청하고 ...]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXFZQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5210210fc96e831f3daf84b2419944c151dd3fba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%86%E1%85%A1%E1%86%AB_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -384,6 +383,17 @@ RE100은 구속력이 없고 자발적 의사로 참여하는 캠페인이다. �
 인간의 눈과 유사한 카메라 컴퓨터 비전
 일론 머스크는 라이다에 대해 "비...]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlpUQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f64f5c8e3b28ca73481f25085b183d5278e2947a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/13_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%85%E1%85%B5%E1%86%B7_%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1-%E1%84%8B%E1%85%B2%E1%84%90%E1%85%B2%E1%84%87%E1%85%B3-%E1%84%8F%E1%85%A2%E1%86%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘내 홈’을 소개합니다 (alookso ─ alookso 플랫폼팀)]]></title>
+            <link>https://alook.so/posts/DjtaZpB</link>
+            <guid>https://alook.so/posts/DjtaZpB</guid>
+            <pubDate>Mon, 30 May 2022 14:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 프로젝트 alookso입니다.
+늘 프로젝트 alookso를 아껴주시는 얼룩커 여러분들께, 새로 생긴 ‘내 홈’ 메뉴를 기쁜 마음으로 소개 드립니다.
+‘내 홈’은 나만의 맞춤 공간입니다.&nbsp;그동안 토픽, 구독, 프로필 각각의 공간에서 만날 수 있었던 ‘나의 관심 글’ 들이 ‘내 홈’ 공간에 모이게 됩니다. ‘내 홈’에서 내가 쓴 글, 내가 팔로우 하는 얼룩커 글과 토픽의 뜨는 글을 한눈에 볼 수 있습니다. ‘내 홈’에 나의 관심사를 모아 보고 나의 관점을 발견해 보세요.
+‘내 홈’은 연결의 공간입니다.&nbsp;하나하나의 글들은 그 자체로 큰 힘을 가지기도 하지만, 서로 연결되어 읽히고 이야기될 때 더욱 큰 힘을 가지게 됩니다. 우리도 비슷합니다. 우리는 서로 연결되어 이야기를 나눌 때 더 성장하고 힘을 얻습니다. ‘내 홈’에서는 글과 글이 연결되고, 더 나아가 글과 얼룩커가 연결되며, 얼룩커와 얼룩커가 연결됩니다. 연결의 공간 ‘내 홈’에서 맥락을 발견하고 나의 관점을 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkNaQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c54985338fac3f9646235451880c717d603e9422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/thumbnail-platformteam-sm02.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[목록 디자인을 변경하였습니다 (alookso ─ alookso 플랫폼팀)]]></title>
@@ -495,15 +505,6 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <guid>https://alook.so/posts/vKt7bV</guid>
             <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
             <content:encoded><![CDATA[안녕하세요? 김선태 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
-뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
-✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요? (alookso ─ alookso 플랫폼팀)]]></title>
-            <link>https://alook.so/posts/E7t8Wo</link>
-            <guid>https://alook.so/posts/E7t8Wo</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요? 한윤정 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
 뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
 ✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
         </item>
