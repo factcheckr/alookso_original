@@ -4,9 +4,27 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 01:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 03:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[투표] 대통령과 장관, 국가 위기 상황에 휴가를 떠나도 될까요?]]></title>
+            <link>https://alook.so/posts/xltykZZ</link>
+            <guid>https://alook.so/posts/xltykZZ</guid>
+            <pubDate>Tue, 31 May 2022 03:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
+
+여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[투표] 정치인의 지지자들이 '팬덤'을 형성하는 현상에 대해 어떤 의견이신가요?]]></title>
+            <link>https://alook.so/posts/vKt1pa3</link>
+            <guid>https://alook.so/posts/vKt1pa3</guid>
+            <pubDate>Tue, 31 May 2022 03:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
+
+여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[‘내 홈’을 소개합니다]]></title>
             <link>https://alook.so/posts/DjtaZpB</link>
@@ -88,27 +106,6 @@
 이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.
 
 여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 동네 이야기, 지역 이슈 체크인]]></title>
-            <link>https://alook.so/posts/Zkt6Lj4</link>
-            <guid>https://alook.so/posts/Zkt6Lj4</guid>
-            <pubDate>Fri, 27 May 2022 03:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>더 많이 이야기되어야 할 이슈를 지역 이슈 체크인에서 선택해보세요</div>
-</div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnVKQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--86802dbf819d5d36c08387ddf37d55d08c20e7e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%EA%B8%B0%ED%9A%8D%EC%86%8C%EA%B0%9C_686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 선진국은 개발도상국에 탄소배출 감축을 위한 재정지원을 해야 할까요?]]></title>
-            <link>https://alook.so/posts/1RtEol4</link>
-            <guid>https://alook.so/posts/1RtEol4</guid>
-            <pubDate>Fri, 27 May 2022 01:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
-
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
         </item>
     </channel>
 </rss>
