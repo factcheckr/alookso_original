@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,9 +33,7 @@
             <guid>https://alook.so/posts/a0tjP8O</guid>
             <pubDate>Fri, 03 Jun 2022 06:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="trix-content">
-  <div>블록체인을 이용한 금융서비스의 구조적 취약성</div><div>
-<br><br>
-</div><div><br></div>
+  <div>블록체인을 이용한 금융서비스의 구조적 취약성</div><div><br></div>
 </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHVzQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffe506bb5ea5732e86a88a4ed741422347c186e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0603%20park%20th.jpg" length="0" type="image/jpg"/>
         </item>
