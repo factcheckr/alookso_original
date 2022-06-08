@@ -4,9 +4,19 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나간 투표 모아보기! (2022년 6월 1호)]]></title>
+            <link>https://alook.so/posts/yEt1loB</link>
+            <guid>https://alook.so/posts/yEt1loB</guid>
+            <pubDate>Wed, 08 Jun 2022 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3pHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--65b8b1289317ec79669f3c503beff0748ded2a7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/20220608_poll_6_th2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[투표] GTX(수도권 광역급행철도)는 수도권 경제에 어떤 영향을 미칠까요?]]></title>
             <link>https://alook.so/posts/rDtRM2X</link>
@@ -102,17 +112,6 @@
   <div>루나-테라 폭락 사태, A to Z</div>
 </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzJxQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--682dd179dd5bac28b1db92ce409c1a5c653208e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 대마초 생산/소비 합법화에 대해 어떻게 생각하세요?]]></title>
-            <link>https://alook.so/posts/DjtaGo2</link>
-            <guid>https://alook.so/posts/DjtaGo2</guid>
-            <pubDate>Fri, 03 Jun 2022 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA['라이프' 토픽은 모든 차원에서 좋은 삶을 이야기합니다.&nbsp;
-
-건강한 몸, 건강한 마음, 건강한 가족관계, 건강한 문화, 건강한 환경... 이 모든 건강이 우리 삶을 지탱합니다.&nbsp;
-
-여기 '라이프' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려주세요.]]></content:encoded>
         </item>
     </channel>
 </rss>
