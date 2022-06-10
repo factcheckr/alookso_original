@@ -4,9 +4,26 @@
         <title>alookso ─ alookso 플랫폼팀</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 09:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 16일, ‘얼룩패스’가 찾아옵니다!]]></title>
+            <link>https://alook.so/posts/2xtxm6X</link>
+            <guid>https://alook.so/posts/2xtxm6X</guid>
+            <pubDate>Fri, 10 Jun 2022 09:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, 프로젝트 alookso입니다.6월 16일 얼룩패스가 찾아옵니다.
+오늘 여러분께 곧 선보일 얼룩패스를 소개합니다.
+그동안 alookso에서 만나보았던 투표들을 많은 얼룩커분들이 즐겨주셨는데요.이제 투표를 통해 내 의견도 표현하고 얼룩패스를 구독할 수 있습니다.6월 16일 alookso 곳곳에 ‘얼룩패스 구독하기’ 버튼이 나타납니다. alookso에서 다양한 콘텐츠와 소통을 즐기고 싶으시다면 얼룩패스를 구독해 주세요!
+
+
+얼룩패스를 구독하면?- ‘내 홈’에&nbsp; ‘내 지도(beta)’ 가 생겨요.
+- ‘내 지도(beta)’ 에서 ‘나’와 가까운 얼룩커를 볼 수 있어요.
+- alookso가 엄선한 시사·지식·교양 콘텐츠를 만날 수 있어요.
+- 글 쓰고 투표하며 소통하고 보상도 받아요.얼룩패스와의 설레는 만남 기대해 주세요!
+6월 16일부터는 얼룩패스를 미구독하면 글 읽기, 글 / 답글 / 댓글 쓰기, 좋아요, 투표, 토픽과 얼룩커 팔로우, 내 지도 보기 같은 alookso...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjNTQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a2492ef8f88b202814d2dc802b88cc3aaffb322/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/alookpass_notice_kr.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘내 홈’을 소개합니다]]></title>
             <link>https://alook.so/posts/DjtaZpB</link>
@@ -121,15 +138,6 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
 ✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;
 
 위와 같은 방법으로 작성하신 글을 1일 이내 수정해 주시지 않으면 삭제 처리를 진행합니다.감사합니다.&nbsp;alookso 드림]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[답글: 안전하고 즐거운 alookso, 함께 만들어볼까요?]]></title>
-            <link>https://alook.so/posts/vKt7bV</link>
-            <guid>https://alook.so/posts/vKt7bV</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[안녕하세요? 김선태 얼룩커님! alookso 입니다:)안전하고 즐거운 alookso를 함께 만들어 나가기 위한
-뉴스 큐레이션 작성 방법을 안내해 드려요!&nbsp;1. 인용 표시를 꼭 해주세요.2. 가져온 글의 출처 주소를 꼭! 링크🔗해주세요.보다 더 자세한 뉴스 큐레이션 작성 방법은&nbsp;
-✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 에서 확인해주세요!&nbsp;위와 같은 방법으로 작성하신 글을 1일 이내 수정해주세요. alookso 행동강령 및 운영정책을 확인해주시기 바랍니다.alookso 에서 자주 만나요!&nbsp;]]></content:encoded>
         </item>
     </channel>
 </rss>
