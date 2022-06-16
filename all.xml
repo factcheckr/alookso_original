@@ -4,9 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 이야기할 콘텐츠의 광장, ‘큐레잇’을 소개합니다. (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/2xtxdPw</link>
+            <guid>https://alook.so/posts/2xtxdPw</guid>
+            <pubDate>Thu, 16 Jun 2022 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>함께 성장하는 일상을, alookso에서 만들어갈 수 있으면 좋겠습니다.</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVh3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9fcfaf50534b024867aba7dcd29fa35025992ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/curate-it_thumb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[투표] 갈등이 있을 때 어떤 해결 방식을 선호하시나요? (alookso ─ 오리지널)]]></title>
             <link>https://alook.so/posts/92t782j</link>
@@ -102,14 +112,29 @@
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnpTQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5222bff5917705fc73275ee4e7fb0fcdf62cbe5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/alookpass_notice_kr.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[🌾시리즈 - 국경을 넘은 식량 위기] 모아보기 (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/zvtJ8o6</link>
-            <guid>https://alook.so/posts/zvtJ8o6</guid>
-            <pubDate>Fri, 10 Jun 2022 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>식량 위기, 다른 각도에서 심도 깊게 파헤치기</div>
-</div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1hTQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab12cbd3d11e0065dd433fa1443d8cc09cece846/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%EC%8B%9D%EB%9F%89%EC%9C%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8_alookso.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[함께 이야기할 콘텐츠의 광장, ‘큐레잇’을 소개합니다. (alookso ─ alookso 에디터팀)]]></title>
+            <link>https://alook.so/posts/2xtxdPw</link>
+            <guid>https://alook.so/posts/2xtxdPw</guid>
+            <pubDate>Thu, 16 Jun 2022 05:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[안녕하세요, alookso입니다.
+
+
+alookso가 ‘큐레잇’을 시작합니다. 얼룩커를 위한 콘텐츠(it)를 큐레이션(curate)합니다.
+
+
+함께 이야기할 콘텐츠의 광장, ‘큐레잇’은 콘텐츠 시장에서 독자에게 가치를 인정받았거나 양질의 콘텐츠를 생산할 것으로 기대되는 파트너와 협업해 ‘사회적 담론’에 쓰일 수 있는 콘텐츠을 모아둔 공간입니다.
+
+
+‘큐레잇’은 alookso의 핵심 가치 가운데 다음 세 가지를 구현하기 위한 첫 발걸음입니다.
+
+
+맥락: 정보 한 조각이 아니라, 맥락을 이해할 수 있는 이야기를 드립니다.
+
+최고의 콘텐츠: 거의 모든 이슈에 대해, 최고의 콘텐츠들이 이곳에서 경쟁합니다. 차별화된 정보, 통찰, 이야기를 만날 수 있습니다.
+
+쾌적한 읽기 경험: 광고의 방해 없이 오롯이 콘텐츠에만 집중할 수 있습니다.
+이미 뉴욕타임스와 이코노미스트를 비롯한 해외 주요 언론과 국내 콘텐츠 플랫폼, 종이잡지 등을 포함해 다양한 파트너 사들이 ‘큐레잇’ 과 함께하고 있습니...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDN3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d8a7d766fb13b1a36db67e530e155caa3ad4ed8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/curate-it_og.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지난 봄의 걸음걸이 ‘초속 55cm’ (alookso ─ alookso 에디터팀)]]></title>
@@ -238,20 +263,6 @@
 2040년 기준, GDP에서 원자재 수출로 벌어들이는 수입이 5%를 넘을 것으로 예상되는 국가들을 먼저 고릅니다. 그리고 그 나라들이 2021년 현재 권위주의 정권이 통치하는 나라인지 민주주의 국가인지 집계해 본 겁니다. 차트의 Autocracies는 권위주의 정권이 통치하는 국가, Democracies는 민주주의 국가입니다.
 
 총 48개국이 차트에 올랐습니다. 그 중 32개국이 권위주의 국가로 분류됐습니다. 원자재로 벌어들이는 돈이 GDP의 20%가 넘는 국가들(러시아 같은 나라들) 중에선 권위주의 국가 비중이 더 늘어납니다. 전체적으로 전 세계 원자재 수출 수입의 절반 이상이 권위주의 정권으로 흘러들어 간다고 합니다....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부, 산업에 투자하고 다주택자에게 증세했다 (alookso ─ alookso 에디터팀)]]></title>
-            <link>https://alook.so/posts/mbtq5p0</link>
-            <guid>https://alook.so/posts/mbtq5p0</guid>
-            <pubDate>Sun, 17 Apr 2022 05:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[정치는 자원의 권위적 배분이라고 한다. 정치의 본질이 바로 자원의 배분이다. 그리고 자원을 어떻게 배분했는지 명확하게 숫자로 표현하는 것이 바로 예산, 재정데이터다. 재정데이터를 분석한다면 문재인정부의 객관적인 정량평가가 가능하다고 믿는다.
-
-
-문재인정부는 17년도 취임했다. 17년도 예산은 박근혜정부가 편성했다. 즉, 400조원을 지출하는 나라를 박근혜정부로부터 물려받아서 5년 동안 608조원을 쓰는 나라로 만들었다. 지출 총량이 얼마나 늘었지는 이 글의 논의 주제는 아니다. 다만 우리나라 GDP 대비 정부지출 규모는 칠레 정도를 제외하고는 OECD 국가 중, 최저 수준의 작은정부라는 사실만 언급하고 넘어가고자 한다. 프랑스 같은 나라는 GDP 대비 무려 60%가 넘는 돈을 정부가 지출한다. GDP가 약 2000조원인 우리나라 정부가 60%를 지출한다면 지출 규모는 자그마치 1200조원!이 넘게 된다.
-원자료 출처: OECD
-
-
-이 글에서 말하고 싶은 것은 총량 분석이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[🌾시리즈 - 국경을 넘은 식량 위기] 모아보기 (alookso ─ alookso 시리즈)]]></title>
@@ -519,7 +530,7 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <title><![CDATA[[투표] 갈등이 있을 때 어떤 해결 방식을 선호하시나요? (alookso ─ alookso 데이터팀)]]></title>
             <link>https://alook.so/posts/92t782j</link>
             <guid>https://alook.so/posts/92t782j</guid>
-            <pubDate>Thu, 16 Jun 2022 03:46:05 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 03:45:31 GMT</pubDate>
             <content:encoded><![CDATA['라이프' 토픽은 모든 차원에서 좋은 삶을 이야기합니다.&nbsp;
 
 건강한 몸, 건강한 마음, 건강한 가족관계, 건강한 문화, 건강한 환경... 이 모든 건강이 우리 삶을 지탱합니다.&nbsp;
@@ -530,7 +541,7 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
             <title><![CDATA[[투표] 다음 두 기업에서 입사 제안을 받았다면, 당신의 선택은? (alookso ─ alookso 데이터팀)]]></title>
             <link>https://alook.so/posts/0ktnzEp</link>
             <guid>https://alook.so/posts/0ktnzEp</guid>
-            <pubDate>Thu, 16 Jun 2022 03:46:05 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2022 03:45:31 GMT</pubDate>
             <content:encoded><![CDATA['라이프' 토픽은 모든 차원에서 좋은 삶을 이야기합니다.&nbsp;
 
 건강한 몸, 건강한 마음, 건강한 가족관계, 건강한 문화, 건강한 환경... 이 모든 건강이 우리 삶을 지탱합니다.&nbsp;

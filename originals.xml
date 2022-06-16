@@ -4,9 +4,19 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[함께 이야기할 콘텐츠의 광장, ‘큐레잇’을 소개합니다.]]></title>
+            <link>https://alook.so/posts/2xtxdPw</link>
+            <guid>https://alook.so/posts/2xtxdPw</guid>
+            <pubDate>Thu, 16 Jun 2022 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>함께 성장하는 일상을, alookso에서 만들어갈 수 있으면 좋겠습니다.</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVh3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9fcfaf50534b024867aba7dcd29fa35025992ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/curate-it_thumb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[투표] 갈등이 있을 때 어떤 해결 방식을 선호하시나요?]]></title>
             <link>https://alook.so/posts/92t782j</link>
@@ -100,16 +110,6 @@
   <div>얼룩패스를 구독하고 alookso의 다양한 새 서비스를 이용해 보세요</div>
 </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnpTQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5222bff5917705fc73275ee4e7fb0fcdf62cbe5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/alookpass_notice_kr.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[🌾시리즈 - 국경을 넘은 식량 위기] 모아보기]]></title>
-            <link>https://alook.so/posts/zvtJ8o6</link>
-            <guid>https://alook.so/posts/zvtJ8o6</guid>
-            <pubDate>Fri, 10 Jun 2022 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>식량 위기, 다른 각도에서 심도 깊게 파헤치기</div>
-</div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1hTQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab12cbd3d11e0065dd433fa1443d8cc09cece846/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%EC%8B%9D%EB%9F%89%EC%9C%84%EA%B8%B0%20%ED%85%8D%EC%8A%A4%ED%8A%B8_alookso.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
