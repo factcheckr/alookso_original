@@ -4,9 +4,18 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나간 투표 모아보기! (2022년 6월 2호)]]></title>
+            <link>https://alook.so/posts/Pvtra6k</link>
+            <guid>https://alook.so/posts/Pvtra6k</guid>
+            <pubDate>Mon, 20 Jun 2022 08:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
+</div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[투표] 최저임금은 지역마다 다르게 정해져야 할까요?]]></title>
             <link>https://alook.so/posts/w9tr4Ml</link>
@@ -102,16 +111,6 @@
   <div>경제가 얼어붙을 거라는 얘기는 그저 미디어의 호들갑인 걸까?&nbsp;</div>
 </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGZ5QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c3d27fe72ade59eb9cdd6188378dc31542f39537/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%EB%85%B8%EB%8B%A4_%EC%A7%80%EA%B8%88%20%ED%95%9C%EA%B5%AD%20%EA%B2%BD%EC%A0%9C%EC%97%90%20%EC%9C%84%EA%B8%B0%EA%B0%80%20%EB%8B%A5%EC%B9%98%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EA%B1%B8%EA%B9%8C_%EC%9C%A0%EB%91%90%ED%98%B8%20%EB%B3%B5%EC%82%AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[함께 이야기할 콘텐츠의 광장, ‘큐레잇’을 소개합니다.]]></title>
-            <link>https://alook.so/posts/2xtxdPw</link>
-            <guid>https://alook.so/posts/2xtxdPw</guid>
-            <pubDate>Thu, 16 Jun 2022 05:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>함께 성장하는 일상을, alookso에서 만들어갈 수 있으면 좋겠습니다.</div>
-</div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVh3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9fcfaf50534b024867aba7dcd29fa35025992ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/curate-it_thumb.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
