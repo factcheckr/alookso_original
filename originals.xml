@@ -4,7 +4,7 @@
         <title>alookso ─ 오리지널</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,6 +15,7 @@
             <content:encoded><![CDATA[<div class="trix-content">
   <div>다양한 투표에 참여해 여러분의 관점을 나눠주세요.</div>
 </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUlFQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4cff87239ce390c762b5e3d027b4fcca47974cd6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/20220620_topic%20th.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[투표] 최저임금은 지역마다 다르게 정해져야 할까요?]]></title>
