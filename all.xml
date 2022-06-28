@@ -4,79 +4,28 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 01:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 03:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시리즈 - 감염병X의 시대] 모아보기 (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/zvtJn8L</link>
+            <guid>https://alook.so/posts/zvtJn8L</guid>
+            <pubDate>Tue, 28 Jun 2022 03:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>코로나19부터 원숭이두창까지, 감염병의 본질은 무엇일까?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3dpQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa825feaf09e23b5f3bd9ef3e1d23678b626864d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/%EA%B8%B0%EB%B3%B8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[시리즈 - 감염병X의 시대] ①백신 맞으면 오미크론에 안 걸릴까 (alookso ─ 오리지널)]]></title>
             <link>https://alook.so/posts/vKt18YR</link>
             <guid>https://alook.so/posts/vKt18YR</guid>
             <pubDate>Tue, 28 Jun 2022 01:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 26일 금요일이었다. 많은 사람들에게 이 날은 주말을 기다리는 평범한 금요일이었을 것이다. 하지만 신종 코로나바이러스 감염증(코로나-19, COVID-19)을 연구하는 바이러스 전문가에게는 매우 특별한 날이었다. 바로 오미크론 변이주의 출현이 처음 뉴스로 알려진 날이기 때문이다. 필자는 그날 오후 학회 심포지엄 장소에 있었는데, 좀 지루한 강의를 듣다가 우연히 스마트폰을 열고 본 뉴스에서 이 소식을 접했다. '코로나는 끝이 없구나'라는 생각과 더불어 우울함을 느꼈던 기억이 난다.
-백신 효능 우려 불러일으킨 새 변이주새로운 변이주가 보고된 직후에는 아직 그 의학적 특성을 명확히 알 수는 없어도 그 유전자 염기서열은 바로 알 수 있다. 오미크론 변이주의 경우, 인체 세포 감염 초기에 세포 표면과 결합하는 역할을 하는 표면 단백질인 ‘스파이크 단백질’에 30개가 넘는 아미노산에 돌연변이가 있다는 것이 바로 알려졌다. 기존에도 스파이크 단백질의 변이는 많이 보고됐지만...]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUlpQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b68d6b1c82491829689f1a3b02fb6fb9d4e85bbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%EB%A7%8C%ED%99%94%201.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 대법원장은 어떤 방법으로 임명되어야 할까요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/XBtBxwq</link>
-            <guid>https://alook.so/posts/XBtBxwq</guid>
-            <pubDate>Mon, 27 Jun 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
-
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 기업 경영에 관한 중요 사항을 결정하는 주주총회, 어떤 의사결정이 바람직할까요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/w9trLwY</link>
-            <guid>https://alook.so/posts/w9trLwY</guid>
-            <pubDate>Mon, 27 Jun 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
-
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 취업난의 이유, 무엇이라고 생각하세요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/92t7jaw</link>
-            <guid>https://alook.so/posts/92t7jaw</guid>
-            <pubDate>Thu, 23 Jun 2022 01:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
-
-이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.
-
-여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 체벌, 용납될 수 있나요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/o7trvMJ</link>
-            <guid>https://alook.so/posts/o7trvMJ</guid>
-            <pubDate>Thu, 23 Jun 2022 01:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
-
-이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.
-
-여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 탄소배출량이 적은 친환경 연료를 사용하는 비행기가 있다면... (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/OEtwprY</link>
-            <guid>https://alook.so/posts/OEtwprY</guid>
-            <pubDate>Wed, 22 Jun 2022 03:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
-
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[투표] 코로나19는 기후 변화로 생긴 것이라는 말에 동의하시나요? (alookso ─ 오리지널)]]></title>
-            <link>https://alook.so/posts/E7t9KP4</link>
-            <guid>https://alook.so/posts/E7t9KP4</guid>
-            <pubDate>Wed, 22 Jun 2022 03:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
-
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>중화항체 중심 논의에서 면역세포 중심으로</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzhsQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--594ef6daea48257af90070f5209bb1e8f1bd629f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/al0628in_th.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🤬 대혐오시대 (alookso ─ 오리지널)]]></title>
@@ -107,6 +56,56 @@
   <div>이 표현, 혐오표현일까요?&nbsp;</div>
 </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjhPQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b6c310cb997b539e41fb3dbe99a74d1ee059255/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/2_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%90%E1%85%A2%E1%84%8B%E1%85%A9%E1%86%A8%20%E1%84%8B%E1%85%B5%E1%84%87%E1%85%AE%E1%84%86%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤬 혐오를 이기는 참여 ③ “한국 사람들이 다른 나라보다 베트남 여성을 더 선호하는 편” (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/njt1BKM</link>
+            <guid>https://alook.so/posts/njt1BKM</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>이 표현, 혐오표현일까요?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM01PQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1805447579d12b1810990f5d571d2a5c2149b3e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/3_%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%8E%E1%85%A1%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8E%E1%85%B5%E1%84%80%E1%85%AF%E1%86%AB%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AB%20%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤬 혐오를 이기는 참여 ④ “장애인 이동권 투쟁이 서울시민의 아침을 볼모로 잡는 부조리” (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/1RtEWXk</link>
+            <guid>https://alook.so/posts/1RtEWXk</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>이 표현, 혐오표현일까요?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2dPQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c76c0b30a5cfae4568405369e7fd6d28e474aaff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/4_%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%8B%E1%85%A1%E1%84%8E%E1%85%B5%E1%86%B7%20%E1%84%87%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%85%E1%85%B5%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤬 혐오를 이기는 참여 ⑤ “중국인이 우리나라 투표권을 가지는 것은 불공정” (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/70tkZ8x</link>
+            <guid>https://alook.so/posts/70tkZ8x</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>이 표현, 혐오표현일까요?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL01TQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ef9ccf3432022f62e39c2765224a310ed190a1d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AB%E1%84%92%E1%85%A8%20%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%80%E1%85%AE%E1%86%A8%20%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%BC%20%E1%84%90%E1%85%AE%E1%84%91%E1%85%AD%E1%84%80%E1%85%AF%E1%86%AB%20%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%86%AF%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤬 혐오를 이기는 참여 ⑥ “여성가족부 폐지” (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/lat5rzD</link>
+            <guid>https://alook.so/posts/lat5rzD</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>이 표현, 혐오표현일까요?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1lTQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c1b419b72a99c8c148cd9f2f3026878bd61662ec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%E1%84%8B%E1%85%B2%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%A7%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%84%80%E1%85%A1%E1%84%87%E1%85%AE%20%E1%84%91%E1%85%A8%E1%84%8C%E1%85%B5%20%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%86%AF%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤬 혐오를 이기는 참여 ⑦ “노키즈존” (alookso ─ 오리지널)]]></title>
+            <link>https://alook.so/posts/mbt7awz</link>
+            <guid>https://alook.so/posts/mbt7awz</guid>
+            <pubDate>Tue, 21 Jun 2022 07:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="trix-content">
+  <div>이 표현, 혐오표현일까요?</div>
+</div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBem9oQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--56e05b46aeafb88b534cd4407e87ab347065ed20/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/%E1%84%82%E1%85%A9%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B3%20%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%86%AF%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🤬 대혐오시대 (alookso ─ alookso 에디터팀)]]></title>
@@ -268,13 +267,28 @@ ps2. 다른 혐오표현 사례가 궁금하시다면?]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1VJQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1b1fd221b6ec5ee079787c7c52f1ea2190e48c4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EA%B3%B5%EC%9C%A0%EC%9A%A9%20%EC%8D%B8%EB%84%A4%EC%9D%BC%20%EB%B3%B5%EC%82%AC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[시리즈 - 감염병X의 시대] 모아보기 (alookso ─ alookso 시리즈)]]></title>
+            <link>https://alook.so/posts/zvtJn8L</link>
+            <guid>https://alook.so/posts/zvtJn8L</guid>
+            <pubDate>Tue, 28 Jun 2022 03:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[더 나은 지식기반 사회를 지향하는 과학자·전문가들의 단체인' 집현네트워크'는 현장에서 활발히 감염병과 바이러스를 연구하는 의·생명과학자의 눈을 통해 감염병의 본질을 깊이 이해하기 위한 연재를 alookso 및 네이버와 함께 시작합니다. 코로나19부터 원숭이두창까지, 새로운 감염병의 공습과 이에 맞서는 과학자·의학자들의 노력을 깊이 있는 해설과 그림으로 만나 볼 수 있습니다.
+
+
+1. 백신 맞으면 오미크론에 안 걸릴까(신의철 기초과학연구원(IBS) 한국바이러스기초연구소 바이러스 면역 연구센터장·KAIST 의과학대학원 교수)
+
+코로나19 초창기부터 세계가 주목할 만한 연구 성과를 꾸준히 발표해 온 신의철 IBS 한국바이러스기초연구소 바이러스 면역 연구센터장의 글입니다. 중화항체 위주로 진행된 기존 연구와 논의 대신, 새롭게 기억 T세포 면역반응 중심의 논의가 필요하다고 제안합니다.- 추후 공개 -
+
+2. 원숭이두창: 허물어진 경계 by. 강석(KAIST 의과학대학원 연구원)·고...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3dpQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa825feaf09e23b5f3bd9ef3e1d23678b626864d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EA%B8%B0%EB%B3%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[시리즈 - 감염병X의 시대] ①백신 맞으면 오미크론에 안 걸릴까 (alookso ─ alookso 시리즈)]]></title>
             <link>https://alook.so/posts/vKt18YR</link>
             <guid>https://alook.so/posts/vKt18YR</guid>
-            <pubDate>Tue, 28 Jun 2022 01:22:32 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2022 01:22:16 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 26일 금요일이었다. 많은 사람들에게 이 날은 주말을 기다리는 평범한 금요일이었을 것이다. 하지만 신종 코로나바이러스 감염증(코로나-19, COVID-19)을 연구하는 바이러스 전문가에게는 매우 특별한 날이었다. 바로 오미크론 변이주의 출현이 처음 뉴스로 알려진 날이기 때문이다. 필자는 그날 오후 학회 심포지엄 장소에 있었는데, 좀 지루한 강의를 듣다가 우연히 스마트폰을 열고 본 뉴스에서 이 소식을 접했다. '코로나는 끝이 없구나'라는 생각과 더불어 우울함을 느꼈던 기억이 난다.
-백신 효능 우려 불러일으킨 새 변이주새로운 변이주가 보고된 직후에는 아직 그 의학적 특성을 명확히 알 수는 없어도 그 유전자 염기서열은 바로 알 수 있다. 오미크론 변이주의 경우, 인체 세포 감염 초기에 세포 표면과 결합하는 역할을 하는 표면 단백질인 ‘스파이크 단백질’에 30개가 넘는 아미노산에 돌연변이가 있다는 것이 바로 알려졌다. 기존에도 스파이크 단백질의 변이는 많이 보고됐지만...]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUlpQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b68d6b1c82491829689f1a3b02fb6fb9d4e85bbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EB%A7%8C%ED%99%94%201.jpg" length="0" type="image/jpg"/>
+백신 효능 우려 불러일으킨 새 변이주새로운 변이주가 보고된 직후에는 아직 그 의학적 특성을 명확히 알 수는 없어도 그 유전자 염기서열은 바로 알 수 있다. 오미크론 변이주의 경우, 인체 세포 감염 초기에 세포 표면과 결합하는 역할을 하는 표면 단백질인 ‘스파이크 단백질’에 30개가 넘는 아미노산에 돌연변이가 있다는 것이 바로 알려졌다. 기존에도 스파이크 단백질의 변이는 많이 보고됐...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVVsQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b67121fcb5722d19692688c53ed9d0f628003fd5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/camilo-jimenez-1WKZQb6bB-4-unsplash.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[시리즈 - 긴축, 잔치는 끝났다] 모아보기 (alookso ─ alookso 시리즈)]]></title>
@@ -383,18 +397,6 @@ ps2. 다른 혐오표현 사례가 궁금하시다면?]]></content:encoded>
 
 미디어에서는 신종 코로나바이러스...]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2pSQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79805dbbb9c39e2939260d18c4d625a95e0651db/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%A1%B0%EC%A0%95%EC%9D%B8_%EA%B2%8C%ED%8B%B0%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B1%85%ED%81%AC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁과 식량 위기, 아프리카·중동에 주목하는 이유 [🌾국경을 넘은 식량 위기] (alookso ─ alookso 시리즈)]]></title>
-            <link>https://alook.so/posts/6Mt6Xd3</link>
-            <guid>https://alook.so/posts/6Mt6Xd3</guid>
-            <pubDate>Fri, 10 Jun 2022 07:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[러시아-우크라이나 간 전쟁 소식이 매일 뉴스에 오르내리고 있는 가운데, 한동안 쉽게 접하지 못했던 이슈가 주목받고 있다. 바로 식량 안보다. 유가가 오르는 것만으로도 벅찬데 밥상 물가까지 위협받고 있고, 세계 다른 지역에서는 식량 위기를 우려하고 있다. 특히 아프리카·중동 국가들의 고민이 깊어지고 있다.
-
-
-
-러시아·우크라이나의 곡물시장 내 입지러시아와 우크라이나 간 전쟁을 두고 세계 각국이 식량 안보를 걱정하는 이유는 두 국가가 밀과 옥수수 등 전략작물을 다량 수출하기 때문이다. 2020년 기준 전세계 밀 수출 규모 대비 러시아와 우크라이나의 밀 수출 비중은 28%에 달한다. 두 국가의 세계 시장 점유율은 지난 10년간 증가하는 추세다. 특히 러시아의 밀 수출 규모가 매우 큰데, 2020년 한 해에만 3700만 톤(t)을 수출했다. 옥수수의 경우에도 두 국가의 존재감은 압도적이다. 2020년 두 국가가 세계 옥수수 수출 시장에서 차지하는 비중은 16%였다. 2012년부터 꾸...]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2ZSQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef59347ffe66e1d5fe5d2bdc5c041df05eb389e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%A0%95%EB%AF%BC%EC%A7%80_%EC%9C%A0%EB%91%90%ED%98%B8%20%EC%95%84%ED%8A%B8%EB%94%94%EB%A0%89%ED%84%B0,%20%EA%B2%8C%ED%8B%B0%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B1%85%ED%81%AC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6월 16일, ‘얼룩패스’가 찾아옵니다! (alookso ─ alookso 플랫폼팀)]]></title>
@@ -529,138 +531,124 @@ alookso의 보상은 소득세법 제37조 소득세법시행령 제87조에 따
 위와 같은 방법으로 작성하신 글을 1일 이내 수정해 주시지 않으면 삭제 처리를 진행합니다.감사합니다.&nbsp;alookso 드림]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[투표] 대법원장은 어떤 방법으로 임명되어야 할까요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/XBtBxwq</link>
-            <guid>https://alook.so/posts/XBtBxwq</guid>
-            <pubDate>Mon, 27 Jun 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
+            <title><![CDATA[우리 동네 이야기, 지역 이슈 체크인 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/Zkt6Lj4</link>
+            <guid>https://alook.so/posts/Zkt6Lj4</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[현재 종료된 프로젝트입니다
 
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+지방선거의 역사가 30년을 넘겼습니다. 지방자치제는 박정희 정권 시절 중단되었다가, 민주화 이후인 1991년 지방의회 의원 선거를 치르며 재개됩니다. 지방정부의 단체장까지 선거로 뽑는 완전한 지방선거는 1995년부터인데, 이걸 제1기 지방선거라고 부릅니다. 2022년은 8기 지방선거입니다. 그러나 지방선거 30년 역사는 동시에 ‘지방선거 무용론의 역사’이기도 했습니다. 여론은 끊임없이 지방정부의 존재 가치가 무엇인지를 묻습니다.
+
+
+지방정부는 ‘혁신의 실험실’이 될 수 있습니다. 몸집이 무겁고 실패의 부담이 큰 중앙정부와 달리, 지방정부에서는 비교적 부담 없이 다양한 실험을 해볼 수 있습니다. 지방정부는 수가 많습니다. 광역단체 17곳과 기초단체 226곳입니다.
+
+
+그래서 지방정부 단위의 실험은 큰 장점이 있습니다. 실패는 다른 지방정부가 모방하지 않습니다. 그래서 지역 단위에서 걸러집니다. 반면 성공은 다른 지방정부도 모방하기 때문에 전국으로 빠르...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnVKQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--86802dbf819d5d36c08387ddf37d55d08c20e7e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EA%B8%B0%ED%9A%8D%EC%86%8C%EA%B0%9C_686.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 기업 경영에 관한 중요 사항을 결정하는 주주총회, 어떤 의사결정이 바람직할까요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/w9trLwY</link>
-            <guid>https://alook.so/posts/w9trLwY</guid>
-            <pubDate>Mon, 27 Jun 2022 03:48:09 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 국회와 법원 같은 공적 제도부터, 가족과 기업의 민주주의까지, 우리가 공동체를 꾸려 살아가는 모든 방법에 대해 이야기합니다.
-
-여기 ‘민주주의의 미래' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+            <title><![CDATA[경남의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/3wtX4JM</link>
+            <guid>https://alook.so/posts/3wtX4JM</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[서부경남 균형발전지난 4월 18일 ‘부울경 특별연합’이 설치되면서, 부산과 울산, 경남을 하나로 묶는 ‘부울경 메가시티’ 논의가 본격화됐습니다. 하지만, 메가시티 논의가 진행될수록 서부경남지역을 중심으로 한 ‘소외 가속화’에 대한 우려도 커지고 있습니다. 지역 핵심 사업이 부산과 울산, 경남 동부권에 집중되면 가뜩이나 낙후된 경남 서부 지역은 더 고립되는 것이 아니냐는 이유에서입니다.
+물류 교통망 확보진해신항 조성 사업은 2024년 착공을 목표로 추진되고 있습니다. 진해신항이 완공되면 가덕도 신공항 및 철도와 연계한 물류 허브의 거점이 될 거라는 구상입니다. 새 정부는 진해신항 조기 착공을 추진하고 있지만, 환경단체와 어민 등은 신항이 진해만을 회생 불가능하게 만든다며 반대하고 있습니다.
+낙동강 취수원 확보 문제
+남강댐 물을 취수원으로 공급해달라는 부산의 요구에 경남은 오랜 갈등을 겪어왔습니다. 취수원 확보를 둘러싼 갈등을 끝내기 위해 지난해 정부는 ‘낙동강 통합물관리방...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWVHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b76c8046b1e3875322d596368538e16b2d911dca/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EA%B2%BD%EB%82%A8.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 취업난의 이유, 무엇이라고 생각하세요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/92t7jaw</link>
-            <guid>https://alook.so/posts/92t7jaw</guid>
-            <pubDate>Thu, 23 Jun 2022 01:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
-
-이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.
-
-여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+            <title><![CDATA[울산의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/8WtapM3</link>
+            <guid>https://alook.so/posts/8WtapM3</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[동남권 광역철도 사업동남권 순환 광역철도 건설이 2029년 완공을 목표로 추진됩니다. 동남권 순환 광역철도는 부산·울산·경남을 한 시간 생활권으로 묶는 핵심 인프라로 꼽힙니다. 완공되면 창원중앙역에서 출발해 김해 진영, 양산 북정을 거쳐 KTX 울산역까지 하나로 이어집니다.
+폐기물매립장 조성 추진울산시가 온산읍 국가산업단지 내 폐기물매립장 조성을 추진 중입니다. 이미 당월리와 강량리 일대 폐기물매립장 건립 준비가 시작됐습니다. 소식을 접한 인근 진하리 어민들은 폐기물매립장과 마을공동어장이 인접해 해양 오염이 발생할 것을 염려하고 있습니다.
+울산의료원 설립 추진울산은 상급 종합병원이 한 곳뿐입니다. 인구와 산업 규모를 감안해보면 턱없이 부족한 상황입니다. 실제로 2020년 기준 울산의 전문의 비율은 1.7%로, 전국 평균(5.9%)보다 크게 낮습니다. 울산의 공공의료기관 비중도 1.0%로 전국 최저 수준입니다. 이 때문에 종합병원급 공공의료원 설치는 울산의 숙원이자 최대 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDJHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--45dd305e0394791d6e8896e6b8c6ccce64c8b47f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%9A%B8%EC%82%B0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 체벌, 용납될 수 있나요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/o7trvMJ</link>
-            <guid>https://alook.so/posts/o7trvMJ</guid>
-            <pubDate>Thu, 23 Jun 2022 01:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[사회가 변화하는 방향을 단적으로 드러내 주는 징후적인 사건들이 있습니다.
-
-이 토픽은 그 일이 왜 징후적인지, 우리 사회가 어디로 변해 가고 있는지 이야기합니다.
-
-여기 ‘사회의 변화' 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+            <title><![CDATA[부산의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/OEtwo4K</link>
+            <guid>https://alook.so/posts/OEtwo4K</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[2030 엑스포 유치 경쟁부산이 출사표를 낸 ‘2030 세계박람회’ 개최지 선정이 내년 하반기로 다가왔습니다. 강력한 경쟁 상대였던 러시아 모스크바가 유치 의사를 자진 철회하면서 부산 유치 가능성이 한층 커졌습니다.
+산업은행 부산 이전 논의새 정부 들어 산업은행의 부산 이전 논의가 본격화됐습니다. 하지만 산업은행 노조 등은 반대 입장을 분명히 하고 있습니다. 이전을 찬성 측은 생산 유발과 일자리 증가 등 경제효과를 강조하고 있지만, 반대 측에서는 공공 기관 몇 곳을 이전한다고 수도권과 지방 격차를 해소할 수는 없다고 주장합니다.
+부산항 진해신항 건설부산항 진해신항(제2신항) 건설 사업이 지난 연말 정부 예비타당성조사를 통과했습니다. 앞선 2019년 8월 입지가 확정됐지만 예타에서 한 차례 탈락하기도 했는데요. 진해 신항 사업은 부산항의 컨테이너 물동량 처리 능력 부족에 대응해, 창원시 진해구 제덕만 해상에 항만을 건설하는 사업입니다.
+북항을 시민에게부산항 북항이 시민을 ...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNENHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--279f3c4c6af2ec7f8a72039d1b581051c78a7438/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EB%B6%80%EC%82%B0.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 탄소배출량이 적은 친환경 연료를 사용하는 비행기가 있다면... (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/OEtwprY</link>
-            <guid>https://alook.so/posts/OEtwprY</guid>
-            <pubDate>Wed, 22 Jun 2022 03:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
+            <title><![CDATA[제주의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/vKt1XLr</link>
+            <guid>https://alook.so/posts/vKt1XLr</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[제2공항 관련 논란제2공항 건설은 제주 지역 최대 갈등 현안입니다. 밀려드는 관광객으로 제주공항이 포화상태인 것은 맞지만, 제2공항 건설만이 대안일 수 없다는 지적도 설득력을 얻고 있습니다. 2015년 사업 추진 발표 이후 찬성 측은 지역 균형 발전과 경제에 도움이 된다며 건설을 주장하고 있고, 반대 측은 환경 파괴와 난개발이 심각해진다며 맞서고 있습니다.
+환경자원 보전 정책 추진제주에 대한 관심이 높아질수록 난개발과 환경보호 문제는 제주가 풀어야 할 숙제로 떠오르고 있습니다. 제주의 허파로 불리는 곶자왈 전체를 보호지역으로 지정해 관리하는 방안과 입도세 논의 등은 제주의 지속가능한 자연환경 유지를 위한 방안들로 끊임없이 논의되고 있습니다.
 
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+
+제주도민의 삶의 질 문제제주는 늘어난 관광객과 인구 증가로 수용 가능 인프라에 한계를 보이고 있습니다. 잇따른 택지 개발로 원도심 공동화 문제도 심화되고 있으며, 갈수록 커지는 제주시와 서귀포시의 격차도 풀어야 할 과제입니다. 렌...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmlHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c0c32551414401ca13fc004ca7dc40b78d6fa9d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%A0%9C%EC%A3%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 코로나19는 기후 변화로 생긴 것이라는 말에 동의하시나요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/E7t9KP4</link>
-            <guid>https://alook.so/posts/E7t9KP4</guid>
-            <pubDate>Wed, 22 Jun 2022 03:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[기후위기는 국제정치, 국제무역, 에너지 안보 등 삶을 지탱하는 모든 질서를 재편하고 있습니다.
-&nbsp;
-이 토픽은 우리 시대 인류의 가장 중요한 도전을 이야기합니다.
-
-여기 ‘기후와 에너지' 토픽과 직결되는 중요한 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+            <title><![CDATA[전북의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/E7t9l62</link>
+            <guid>https://alook.so/posts/E7t9l62</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[새만금을 동북아 허브로새만금 개발의 핵심은 신항만(2025년 완공), 신항만 인입 철도(2027년 개통), 새만금 국제공항(2029년 개항) 입니다. 새만금 개발은 역대 정부마다 균형발전 공약으로 첫발에 꼽았지만, 교통망 확충조차 제대로 이뤄지지 못했는데요. 철도와 항만, 항공이 완공되면 새만금이 동북아 허브로의 본격적인 도약을 시작할 수 있을 것으로 기대됩니다.
+영호남 간 전주-김천선 개통전북 전주와 경북 김천을 잇는 이른바 ‘동서횡단철도'는 광주-대구를 잇는 ‘달빛내륙철도’와 같이 영호남 교류를 단축하는 대표 노선으로 거론되고 있습니다. 노선이 개통될 경우 약 40분 만에 전주에서 김천으로의 이동이 가능합니다. 이는 국가 균형발전 요소로 꼽히며 타당성 조사는 올해 말 완료될 전망입니다.
+전주 재개발 사업전북도의 재정자립도는 전국 광역시·도 중 최하위로, 평균(45.3%)의 절반 수준인 23.76%에 그치고 있습니다. 인구 유출 문제 해결과 산업기반 도심 재개발도 지지...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTZHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ab80c93f2fa7ad77163f2f5e18240c2413cf8dd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%A0%84%EB%B6%81.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 포털의 뉴스 추천 알고리즘, 공개해야 할까요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/Pvtr928</link>
-            <guid>https://alook.so/posts/Pvtr928</guid>
-            <pubDate>Tue, 21 Jun 2022 03:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능과 디지털 기술이 우리 삶의 모든 풍경을 바꾸는 시대입니다.
+            <title><![CDATA[전남의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/92t72Oq</link>
+            <guid>https://alook.so/posts/92t72Oq</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[무안국제공항 활성화무안국제공항은 매년 100억 원 안팎의 적자를 내고 있습니다. 2021년 국토교통부가 고시한 제6차 공항개발 종합계획에는 전남 무안 공항 통합 이전에 광주 군 공항 이전을 연계해 추진한다는 내용이 포함돼있습니다. 광주 공항 이전 통합으로 무안공항을 서남권 중심 공항으로 활성화한다는 계획입니다. 하지만 군 공항까지 이전한다는 소식에 전남 지역 주민들은 반발하고 있습니다.
+국립 전남의과대학 설립전남은 세종시를 제외한 전국 지자체 가운데 의과대학이 없는 유일한 지역입니다. 중증·응급 환자를 위한 상급 병원도 없어 의료 환경이 열악합니다. 의과대학 설립을 통한 지역 의료 인프라 확충은 전남 지역의 숙원 사업입니다.
 
-이 토픽은 기술이 인간을 옥죄지 않는 길, 기술이 인간을 위한 도구가 되는 길을 이야기합니다.
 
-여기 ‘기술과 인간' 토픽과 직결되는 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+친환경 에너지 산업 진흥윤석열 대통령직인수위원회 지역균형발전특별위원회는 전남에 친환경 재생에너지 산업벨트를 조성할 것임을 밝혔습니다. 전남 해남군에서는 국내 최대 규모의 솔라시도 태양광발전소가 운영 중입니다. 하지만 이번 선거에서는 해상풍력발전을...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWFHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--89c265b842ed43cbc67d89d362e56b495a1077f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%A0%84%EB%82%A8.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 암호화폐 거래, 투자에 가까울까요, 도박에 가까울까요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/dzt7PrM</link>
-            <guid>https://alook.so/posts/dzt7PrM</guid>
-            <pubDate>Tue, 21 Jun 2022 03:27:41 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능과 디지털 기술이 우리 삶의 모든 풍경을 바꾸는 시대입니다.
+            <title><![CDATA[광주의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/1RtEoDx</link>
+            <guid>https://alook.so/posts/1RtEoDx</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[광주 군 공항 무안공항으로?광주는 2013년 군 공항 이전에 대한 특별법 제정 직후 광주 군 공항 이전을 추진해왔습니다. 2016년 국방부로부터 이전 타당성 평가 결과, ‘적정' 평가로 사업이 본격화됐으나, 비용과 이전 후보지 논의가 지지부진하면서 답보 상태에 놓였습니다. 지난해 9월, 광주공항과 군 공항을 무안공항으로 통합 이전하는 방안이 확정되면서 오랜 공항 이전 논의에 변화가 생길지 주목됩니다.
 
-이 토픽은 기술이 인간을 옥죄지 않는 길, 기술이 인간을 위한 도구가 되는 길을 이야기합니다.
 
-여기 ‘기술과 인간' 토픽과 직결되는 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+광주-대구 ‘달빛내륙철도’광주와 대구를 1시간 20분 이내에 이동할 수 있는 ‘달빛내륙철도'는 2030년 완공을 목표로 하고 있습니다. 광주부터 대구까지 영·호남의 6개 시도와 10개 지자체를 지나는 ‘달빛내륙철도’는 지역 갈등 해소와 지역 균형 발전 기대를 받고 있습니다. 최근 윤석열 정부가 달빛내륙철도 건설을 국가 계획에 반영하면서 국가균형발전에 한 발짝 다가섰다는 평가를 받고 있습니다.
+무등산 개발광주를 대표하는 무등산 국립공원은 사시사철 등산객이 끊이질 않습니다....]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGlHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18da7cd8e6e8b275e22f0a6ed2c20997233887c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EA%B4%91%EC%A3%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[지나간 투표 모아보기! (2022년 6월 2호) (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/Pvtra6k</link>
-            <guid>https://alook.so/posts/Pvtra6k</guid>
-            <pubDate>Mon, 20 Jun 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[alookso 팀은 토픽과 현안별로 얼룩커들의 다양한 관점을 표현할 수 있는 투표를 월요일부터 금요일 사이 매일 다른 토픽에서 선보이고 있습니다. 이러한 투표를 통해 우리 사회의 다양한 관점을 드러내는 동시에, 얼룩커 여러분들이 스스로의 관점을 확인할 수 있기를 기대합니다.
-
-투표는 토픽 메뉴의 투표 탭에서 확인할 수 있는데요. 혹시 못 보신 분들을 위해 그간 올라온 투표 몇 가지를 모아왔습니다. 흥미로운 투표에 여러분의 소중한 의견을 남기고, 새로운 글로 추가적인 의견을 펼쳐 보세요. 투표 질문을 클릭하면 다른 얼룩커들이 해당 투표에 관해 남긴 의견을 살펴보고, 글을 남길 수 있습니다.
-
-투표는 계속 열려 있으니 아래에 아직 참여하지 않은 투표가 있다면 참여해보세요!
+            <title><![CDATA[경북의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/o7trDYm</link>
+            <guid>https://alook.so/posts/o7trDYm</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[‘소멸위험’ 막아야경북은 ‘소멸위험’ 기초자치단체가 가장 많은 광역자치단체입니다. 지난해에만 경북 인구는 1만 2천 여 명이 감소했습니다. 각종 특별기금 지원 등이 추진되고 있지만, 본질적인 해결책은 되지 못하고 있다는 평가입니다.
 
 
 
-토픽: 세계 질서와 세계 경제
-
-
-
-토픽: 인구와 도시
-
-
-
-토픽: 기후와 에너지
-
-
-
-토픽: 사회의 변화
-
-
-
-토픽: 민주주의의 미래
-
-
-
-토픽: 보통 사람들의 경제
-
-
-
-토픽: 라이프]]></content:encoded>
+원자력 산업과 탈원전 정책경북은 전국에서 원자력발전소를 가장 많이 갖고 있습니다. 새 정부 출범 이후 탈원전 기조가 꺾이면서 원전산업 확대에 대한 기대도 커졌습니다. 경북도는 1조 7123억 원의 원전 관련 사업을 정부 부처에 건의하기로 했습니다. 멈췄던 원전 공사를 재개하고 소형모듈원자로 특화 국가산업단지 조성 등이 주요 내용입니다.경북형·구미형 일자리구미형 일자리는 ‘상생형 지역 일자리 모델’을 말합니다. 경북 구미에 들어서는 이차전지 양극재 공장에 적용됩니다. 노·사·민·정의 사회적 대타협으로 이룬 지역투자와 일자리 창출로 광주와 밀양, 횡성, 군산, 부산에 이어 여섯 번째입니다. 경북도와 경북테크노파크는 3000억 규모 투자펀드를 조성해...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGFHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16050d20ec0e4578b4587a19be6ddc84f82d6e31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EA%B2%BD%EB%B6%81.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[투표] 최저임금은 지역마다 다르게 정해져야 할까요? (alookso ─ alookso 데이터팀)]]></title>
-            <link>https://alook.so/posts/w9tr4Ml</link>
-            <guid>https://alook.so/posts/w9tr4Ml</guid>
-            <pubDate>Mon, 20 Jun 2022 01:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[이 토픽은 저출생, 고령화, 젠더 갈등, 지방 소멸, 탄소 감축 등 우리 사회의 중요한 과제들을 이야기합니다.
+            <title><![CDATA[충북의 이슈를 소개합니다 (alookso ─ alookso 데이터팀)]]></title>
+            <link>https://alook.so/posts/E7t9l67</link>
+            <guid>https://alook.so/posts/E7t9l67</guid>
+            <pubDate>Tue, 28 Jun 2022 03:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[청주 오창 방사광가속기방사광가속기는 전자를 빛의 속도에 가깝게 가속해 밝은 빛을 만들어 초고성능 현미경 역할을 합니다. 신약 개발과 반도체, 디스플레이 등 소재 부품 산업 현장에서도 가속기의 역할이 커지고 있습니다. 2020년 충북 청주에 유치한 ‘방사광가속기’는 2027년까지 구축해 2028년부터 운영할 계획입니다. 과학기술정보통신부 주관 사업으로 1조 454억 원이 투입돼 부지 54만㎡에 원형 둘레 800m의 '다목적 4세대 원형 방사광가속기'가 세워집니다.
 
-인구와 도시는 이 모든 문제를 관통하는 두 열쇳말입니다.
 
-여기 ‘인구와 도시’ 토픽과 관련된 흥미로운 질문이 있습니다. 여러분의 생각을 알려 주세요.]]></content:encoded>
+바이오밸리 조성윤석열 대통령직인수위원회는 충북 7대 공약에 오송 글로벌 바이오 밸리 조성을 포함했습니다. 구체적으로 KAIST 오송 바이오메디컬 캠퍼스타운을 조성한다는 계획입니다. 오송은 방사광가속기가 건설되고 있는 오창과 인접해 있습니다. 충청북도는 2013년도부터 바이오산업의 중심지로 만들기 위한 계획인 ‘바이오밸리 마스터플랜’을 발표한 바 있습니다.
+
+
+충북 광역철도망 구축청주 도심을 통과하는 충청권 광...]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--36568446e6fd5a1f29fa35fd666a4390af79c3d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--b8a1712bc8452aea08f63e2a9adf3256f64d7ceb/%EC%B6%A9%EB%B6%81.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2020 도쿄 패럴림픽 선수들의 비전 시각화 (alookso ─ alookso 데이터팀)]]></title>
