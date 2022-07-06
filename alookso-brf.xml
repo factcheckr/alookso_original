@@ -4,19 +4,9 @@
         <title>alookso ─ alookso 브리프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 15:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 16:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[선거철 발생하는 ‘선거 쓰레기’, 제도적 변화 필요]]></title>
-            <link>https://alook.so/posts/Zktamyr</link>
-            <guid>https://alook.so/posts/Zktamyr</guid>
-            <pubDate>Tue, 24 May 2022 02:03:33 GMT</pubDate>
-            <content:encoded><![CDATA[선거 벽보와 현수막 등은 선거가 끝난 뒤 ‘쓰레기'로 남지만, 재활용이 어렵고 매립하거나 소각할 때 유해물질이 발생해 온실가스를 배출해 골치덩이 합니다. 행정안전부는 제20대 대선에 쓰인 폐현수막을 재활용하겠단 방침을 내놨지만, 녹색연합에서는 '현수막 사용 최소화'가 우선이라고 밝혔습니다.
-일각에서는 선거 폐기물 발생을 줄이려면 선거법 등 제도적인 변화가 필요하고, 주요 정당이 앞장서야 한다고 주장합니다. 이와 관련, 현재 우리 국회에서는 작년 11월 더불어민주당 강득구 의원이 발의한 '공직선거법 일부개정법률안'이 계류 중에 있습니다. 발의안에는 전자형 공보물을 원칙으로 하고, 이외에는 재생종이 사용을 의무화하도록 하는 내용이 담겨있습니다.
-alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNS9QQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4492e469f47c6e072655c2e1628e0839a484ad9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%84%A0%EA%B1%B0%EC%93%B0%EB%A0%88%EA%B8%B0_%EC%97%B0%ED%95%A9.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[대체육, 고기라고 불러도 될까?]]></title>
             <link>https://alook.so/posts/2xt2yDm</link>
@@ -27,6 +17,16 @@ alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alo
 
 alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWZQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5b3aae256957efa844684340b71ffc839d9f003/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/vegan.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선거철 발생하는 ‘선거 쓰레기’, 제도적 변화 필요]]></title>
+            <link>https://alook.so/posts/Zktamyr</link>
+            <guid>https://alook.so/posts/Zktamyr</guid>
+            <pubDate>Tue, 24 May 2022 02:03:33 GMT</pubDate>
+            <content:encoded><![CDATA[선거 벽보와 현수막 등은 선거가 끝난 뒤 ‘쓰레기'로 남지만, 재활용이 어렵고 매립하거나 소각할 때 유해물질이 발생해 온실가스를 배출해 골치덩이 합니다. 행정안전부는 제20대 대선에 쓰인 폐현수막을 재활용하겠단 방침을 내놨지만, 녹색연합에서는 '현수막 사용 최소화'가 우선이라고 밝혔습니다.
+일각에서는 선거 폐기물 발생을 줄이려면 선거법 등 제도적인 변화가 필요하고, 주요 정당이 앞장서야 한다고 주장합니다. 이와 관련, 현재 우리 국회에서는 작년 11월 더불어민주당 강득구 의원이 발의한 '공직선거법 일부개정법률안'이 계류 중에 있습니다. 발의안에는 전자형 공보물을 원칙으로 하고, 이외에는 재생종이 사용을 의무화하도록 하는 내용이 담겨있습니다.
+alookso 뉴스못을 받아보고 싶은 분들은 [회원가입] 을 하고 alookso 뉴스못 계정을 구독해주세요.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNS9QQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4492e469f47c6e072655c2e1628e0839a484ad9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EC%84%A0%EA%B1%B0%EC%93%B0%EB%A0%88%EA%B8%B0_%EC%97%B0%ED%95%A9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EU의 우크라이나 난민 수용, 시리아 내전 때와 다르다]]></title>
