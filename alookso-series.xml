@@ -4,7 +4,7 @@
         <title>alookso ─ alookso 시리즈</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 01:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 03:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,10 +24,11 @@
             <link>https://alook.so/posts/Zkt6Rjx</link>
             <guid>https://alook.so/posts/Zkt6Rjx</guid>
             <pubDate>Fri, 22 Jul 2022 10:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘두 마을버스 1번 이야기’를 관심 있게 읽으셨다면 생활권 녹지 마을버스 노선 사이의 관계를 직접 확인해 보는 프로젝트에 함께 하시는 건 어떨까요. 기사에서 에디터가 했던 것과 동일한 방법으로, 동네 마을버스 정류장에서 찍은 사진으로 녹시율 데이터를 확인하고 공유하는 프로젝트 ‘얼룩樹’입니다.
+            <content:encoded><![CDATA[‘두 마을버스 1번 이야기’를 관심 있게 읽으셨나요. 녹지의 분포 역시 지역에 따라 차이가 심하고 그 차이는 지역의 사회경제적 지표와 관련이 있다는 사실을 알 수 있었습니다. 그렇다면 거주지 및 도보 생활권과 가장 가까운 녹지의 현황은 어떨까요. 생활권 녹지를 확인할 가장 가까운 지표로 마을버스 노선을 선정하고 이곳의 녹지 비율을 직접 확인해 보는 시민 프로젝트에 함께 해 보세요. 기사에서 에디터가 했던 것과 동일한 방법으로, 동네 마을버스 정류장에서 찍은 사진으로 녹시율 데이터를 확인하고 공유하는 프로젝트 ‘얼룩樹’입니다.
 
 
-도심의 녹지 비율을 평가하는 방법은 다양합니다. 도시 연구자들 사이에서는 전통적으로 위성 영상을 이용한 원격탐사 기술을 많이 활용합니다. 위성에서 도시를 촬영한 이미지를 얻은 뒤, 광학 분석을 통해 식물의 특성을 보이는 영역의 면적을 추출하는 식이죠. 가장 널리 쓰이는 지표는 정규화차이식생지수(NDVI)입니다. 보통 식물은 가시광선을 대부분 흡수하고 그보다 파장이 조금 긴 근적외선은 반사합니다(근적외선은 사람은 볼 수 없습니다). 이 현상을 이용해 위성 영상에 찍힌 파장을 분석해 그 지역이 녹지인지 판정합니다. 최근에는 구글이 아예 전 세계 토지를 촬영한 위성 영상을 인공지능(AI)...]]></content:encoded>
+
+다양한 녹지 평가 방법..'주민 눈높이' 맞춘 지표 필요해도심의 녹지 비율을 평가하는 방법은 다양합니다. 도시 연구자들 사이에서는 전통적으로 위성 영상을 이용한 원격탐사 기술을 많이 활용합니다. 위성에서 도시를 촬영한 이미지를 얻은 뒤, 광학 분석을 통해 식물의 특성을 보이는 영역의 면적을 추출하는 식이죠. 가장 널리 쓰이는 지표는 정규화차이식생지수...]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0tIQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb6524c97e454ed886bbe07649ba6d9e0c9edd19/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/%EB%85%B9%EC%A7%80%20%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5_%EC%9C%A4%EC%8B%A0%EC%98%81_%EC%9C%A0%EB%91%90%ED%98%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
